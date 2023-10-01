@@ -2,11 +2,11 @@
 *.json
 
 # Ignore specific file
-./initial_data/chemicals_data_clean.csv
-./initial_data/chemicals_data.csv
-./plant_species_list_part.csv
-./plant_species_list_test.csv
-./plant_species_list.csv
+initial_data/chemicals_data_clean.csv
+initial_data/chemicals_data.csv
+plant_species_list_part.csv
+plant_species_list_test.csv
+plant_species_list.csv
 
 # Ignore all files in a specific directory
 studies/
@@ -14,5 +14,4 @@ studies/
 # Ignore all .log files in all directories
 *.log
 
-# Ignore all files except those with .py extension (not commonly used)
-!*.py
+
