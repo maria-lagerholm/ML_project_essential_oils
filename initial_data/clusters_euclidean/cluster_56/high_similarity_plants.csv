@@ -1,0 +1,15 @@
+Plant 1,Plant 2,Similarity Score
+"Helichrysum bracteiferum (Madagascar) 1 - Helichrysum bracteiferum (DC) H. Humbert, fam. Asteraceae (Compositae)","Helichrysum bracteiferum (Madagascar) 2 - Helichrysum bracteiferum (DC) H. Humbert, fam. Asteraceae (Compositae)",0.9100109125769348
+"Helichrysum bracteiferum (Madagascar) 2 - Helichrysum bracteiferum (DC) H. Humbert, fam. Asteraceae (Compositae)","Helichrysum bracteiferum (Madagascar) 1 - Helichrysum bracteiferum (DC) H. Humbert, fam. Asteraceae (Compositae)",0.9100109125769348
+"Laurel fruit (India) - Laurus nobilis L., fam. Lauraceae","Laurel leaf (India) - Laurus nobilis L., fam. Lauraceae",0.9241901611682564
+"Laurel leaf (India) - Laurus nobilis L., fam. Lauraceae","Laurel fruit (India) - Laurus nobilis L., fam. Lauraceae",0.9241901611682564
+"Lavandula luisieri (Chemotype A) - Lavandula luisieri L., Chemotype A, fam. Lamiaceae (Labiatae)","Marjoram, spanish (Spain) 4a - Thymus mastichina L., fam. Lamiaceae (Labiatae)",0.9070489065440333
+"Lavandula luisieri (Chemotype A) - Lavandula luisieri L., Chemotype A, fam. Lamiaceae (Labiatae)","Marjoram, spanish (Spain) 4b - Thymus mastichina L., fam. Lamiaceae (Labiatae)",0.9031241207155436
+"Lippia scaberrima (South Africa) 1a - Lippia scaberrima Sond., fam. Verbeneceae (local: Beukesbossie)","Marjoram, spanish (Spain) 4a - Thymus mastichina L., fam. Lamiaceae (Labiatae)",0.9282817467133052
+"Marjoram, spanish (Spain) 4a - Thymus mastichina L., fam. Lamiaceae (Labiatae)","Lavandula luisieri (Chemotype A) - Lavandula luisieri L., Chemotype A, fam. Lamiaceae (Labiatae)",0.9070489065440333
+"Marjoram, spanish (Spain) 4a - Thymus mastichina L., fam. Lamiaceae (Labiatae)","Lippia scaberrima (South Africa) 1a - Lippia scaberrima Sond., fam. Verbeneceae (local: Beukesbossie)",0.9282817467133052
+"Marjoram, spanish (Spain) 4a - Thymus mastichina L., fam. Lamiaceae (Labiatae)","Marjoram, spanish (Spain) 4b - Thymus mastichina L., fam. Lamiaceae (Labiatae)",0.9116865201773048
+"Marjoram, spanish (Spain) 4b - Thymus mastichina L., fam. Lamiaceae (Labiatae)","Lavandula luisieri (Chemotype A) - Lavandula luisieri L., Chemotype A, fam. Lamiaceae (Labiatae)",0.9031241207155436
+"Marjoram, spanish (Spain) 4b - Thymus mastichina L., fam. Lamiaceae (Labiatae)","Marjoram, spanish (Spain) 4a - Thymus mastichina L., fam. Lamiaceae (Labiatae)",0.9116865201773048
+"Vitex agnus-castus inflorescence (Italy) - Vitex agnus-castus L., fam. Verbenaceae","Vitex agnus-castus leaf (Italy) - Vitex agnus-castus L., fam. Verbenaceae",0.9356223854578192
+"Vitex agnus-castus leaf (Italy) - Vitex agnus-castus L., fam. Verbenaceae","Vitex agnus-castus inflorescence (Italy) - Vitex agnus-castus L., fam. Verbenaceae",0.9356223854578194
