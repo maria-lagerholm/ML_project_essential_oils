@@ -1,0 +1,3 @@
+Plant 1,Plant 2,Similarity Score,First Most Present Chemical,First Most Present Amount,Second Most Present Chemical,Second Most Present Amount,Third Most Present Chemical,Third Most Present Amount,Fourth Most Present Chemical,Fourth Most Present Amount,Fifth Most Present Chemical,Fifth Most Present Amount
+"Almond - Prunus dulcis (Miller) D.A. Webb (P. amygdalus Batsch, P. communis L.)","Apricot kernel - Prunus armeniaca L., fam. Rosaceae",0.9868292840254363,Benzaldehyde,0.95,Hydrocyanic acid,0.03,Benzyl alcohol,0.0,Benzoic acid,0.0,,0
+"Apricot kernel - Prunus armeniaca L., fam. Rosaceae","Almond - Prunus dulcis (Miller) D.A. Webb (P. amygdalus Batsch, P. communis L.)",0.9868292840254363,Benzaldehyde,0.95,Hydrocyanic acid,0.03,,0.0,,0.0,,0
