@@ -1,0 +1,959 @@
+Plant 1,Plant 2,Similarity Score
+"Celery seed (China) 1 - Apium graveolens L., fam. Apiaceae (Umbelliferae)","Celery seed (India) 3 - Apium graveolens L., fam. Apiaceae (Umbelliferae)",0.9250331695759256
+"Celery seed (India) 3 - Apium graveolens L., fam. Apiaceae (Umbelliferae)","Celery seed (China) 1 - Apium graveolens L., fam. Apiaceae (Umbelliferae)",0.9250331695759256
+"Citron (Italy) peel 1a - Citrus medica L., cultivar Diamante, fam. Rutaceae","Citron (Italy) peel 1b - Citrus medica L., cultivar Diamante, fam. Rutaceae",0.954679350466496
+"Citron (Italy) peel 1a - Citrus medica L., cultivar Diamante, fam. Rutaceae","Mandarin (Italy) 8 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9010267486037064
+"Citron (Italy) peel 1b - Citrus medica L., cultivar Diamante, fam. Rutaceae","Citron (Italy) peel 1a - Citrus medica L., cultivar Diamante, fam. Rutaceae",0.954679350466496
+"Citrus pennivesiculata peel, Moi - Citrus pennivesiculata (Luash.) Tan., cultivar Moi, fam. Rutaceae","Lime (Mexican, West Indian, Key) (Vietnam) - Citrus aurantifolia (Christm.) Swingle, fam. Rutaceae",0.9263710472147936
+"Citrus volkameriana (Colombia) - Citrus volkameriana L., fam. Rutaceae","Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.903411274674018
+"Clementine x Lemon (Italy) 1 - Citrus clementina Hort. ex Tan. x Citrus limon (L.) Burm., fam. Rutaceae","Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae",0.9207752836312316
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.979939891440354
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9479860673514556
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9305107820957118
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9268575575662478
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9109786788488397
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9205555651131008
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9130819168834176
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9218911374513294
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9429369554264864
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9489420715017796
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9679268749795348
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9260554117640618
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9377113544306508
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9498842112868608
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9029388850214364
+"Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9329376029935
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.979939891440354
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9433512277767908
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.919792786720522
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9261051080053926
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.908567745276836
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9190977144886132
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.912394045415315
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9189370203856488
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9356023379085184
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9485392450599014
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9677149718812942
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9262244504776248
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9356068121433476
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.94843716756913
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9074062938826684
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9027710657793684
+"Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9308602922904938
+"Lemon (Benin) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lime (Mexican, West Indian, Key) (Vietnam) - Citrus aurantifolia (Christm.) Swingle, fam. Rutaceae",0.911745533374061
+"Lemon (Brazil) 1 - Citrus limon (L.) Burm. f., cultivar Sicilian, fam. Rutaceae","Lemon (Brazil) 2 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9463245075973624
+"Lemon (Brazil) 1 - Citrus limon (L.) Burm. f., cultivar Sicilian, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.901494112001172
+"Lemon (Brazil) 1 - Citrus limon (L.) Burm. f., cultivar Sicilian, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9168774170118306
+"Lemon (Brazil) 2 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Brazil) 1 - Citrus limon (L.) Burm. f., cultivar Sicilian, fam. Rutaceae",0.9463245075973624
+"Lemon (Brazil) 2 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9007055939732955
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9479860673514556
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9433512277767908
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9153161104221268
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9346331630417056
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9259217549690948
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9030440743282868
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.910760480425692
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9238094568387274
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9214696111880089
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.952480588445942
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9071258910218936
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9183779648361596
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9236388467203592
+"Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9004867585362334
+"Lemon (France-Corsica) 1b Fino - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae","Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae",0.9222457503423754
+"Lemon (France-Corsica) 1b Fino - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae","Lemon (France-Corsica) 1e Corpaci - Citrus limon (L.) Burm. f., cultivar Corpaci, fam. Rutaceae",0.9090788786835936
+"Lemon (France-Corsica) 1b Fino - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae","Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae",0.9295864403742946
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.90469527282208
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905271412309921
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9296741283149424
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9214986620309576
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.964735640678258
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.97082132024947
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9415300171065244
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9276234681217098
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9430177992014062
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9000346716792518
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.94995276818574
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.939608193922318
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9351935116712848
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9071706261405652
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9303992681170444
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9355971183607572
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9303982332209084
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9008316551207114
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9509074556711956
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9377233049564822
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9396388146400472
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9291157483082122
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9138973270563132
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9008432772623918
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.940133282321894
+"Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.936023533115004
+"Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae","Lemon (France-Corsica) 1b Fino - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae",0.9222457503423754
+"Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae","Lemon (France-Corsica) 1e Corpaci - Citrus limon (L.) Burm. f., cultivar Corpaci, fam. Rutaceae",0.9304441284065298
+"Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae","Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae",0.9630057949298624
+"Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae","Lemon (France-Corsica) 1g Lapithou - Citrus limon (L.) Burm. f., cultivar Lapithou, fam. Rutaceae",0.9204824605212352
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.90469527282208
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9225951635106836
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9210333067195292
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9072772498592644
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9534401804696342
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9360058967006946
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9005697916524805
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9699042521276786
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.964544835774036
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9379631859360578
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9376554872261592
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9038317930473516
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9399306898074236
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9420866175884192
+"Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9295162323091394
+"Lemon (France-Corsica) 1e Corpaci - Citrus limon (L.) Burm. f., cultivar Corpaci, fam. Rutaceae","Lemon (France-Corsica) 1b Fino - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae",0.9090788786835936
+"Lemon (France-Corsica) 1e Corpaci - Citrus limon (L.) Burm. f., cultivar Corpaci, fam. Rutaceae","Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae",0.9304441284065298
+"Lemon (France-Corsica) 1e Corpaci - Citrus limon (L.) Burm. f., cultivar Corpaci, fam. Rutaceae","Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae",0.9566412101128824
+"Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae","Lemon (France-Corsica) 1b Fino - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae",0.9295864403742946
+"Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae","Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae",0.9630057949298624
+"Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae","Lemon (France-Corsica) 1e Corpaci - Citrus limon (L.) Burm. f., cultivar Corpaci, fam. Rutaceae",0.9566412101128824
+"Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae","Lemon (France-Corsica) 1g Lapithou - Citrus limon (L.) Burm. f., cultivar Lapithou, fam. Rutaceae",0.90576568383406
+"Lemon (France-Corsica) 1g Lapithou - Citrus limon (L.) Burm. f., cultivar Lapithou, fam. Rutaceae","Lemon (France-Corsica) 1d Berna - Citrus limon (L.) Burm. f., cultivar Berna, fam. Rutaceae",0.9204824605212352
+"Lemon (France-Corsica) 1g Lapithou - Citrus limon (L.) Burm. f., cultivar Lapithou, fam. Rutaceae","Lemon (France-Corsica) 1f Santa Teresa - Citrus limon (L.) Burm. f., cultivar Santa Teresa, fam. Rutaceae",0.90576568383406
+"Lemon (France-Corsica) 1g Lapithou - Citrus limon (L.) Burm. f., cultivar Lapithou, fam. Rutaceae","Lemon (France-Corsica) 1h Menton - Citrus limon (L.) Burm. f., cultivar Menton, fam. Rutaceae",0.9202036490559328
+"Lemon (France-Corsica) 1h Menton - Citrus limon (L.) Burm. f., cultivar Menton, fam. Rutaceae","Lemon (France-Corsica) 1g Lapithou - Citrus limon (L.) Burm. f., cultivar Lapithou, fam. Rutaceae",0.9202036490559328
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9305107820957118
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.919792786720522
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9153161104221268
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sardinia) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.924007301004524
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae",0.9415291958353472
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 15b Femminello continella - Citrus limon (L.) Burm. f., cultivar Femminello continella, fam. Rutaceae",0.9018863425290096
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9226774069194196
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9207434684826552
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9084727337941494
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9195029410276312
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9015053247708836
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9078101346858956
+"Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9319336962067768
+"Lemon (Italy-Sardinia) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.924007301004524
+"Lemon (Italy-Sardinia) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae",0.9393800217277808
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.926857557566246
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9261051080053908
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Brazil) 1 - Citrus limon (L.) Burm. f., cultivar Sicilian, fam. Rutaceae",0.901494112001172
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9346331630417036
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.905271412309921
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9183938510773172
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9072958957186494
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9385167847391654
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9029883716640178
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9295676886543004
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9202548169681548
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9292663005415632
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.916849114455806
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9311707525515708
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9178247577166964
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9021205709979072
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9165257629302964
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9214980503234784
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9227933168379892
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9244897106609848
+"Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.920420887329574
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.910978678848838
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9085677452768346
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9296741283149424
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9183938510773172
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9288449496389816
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9400559281184758
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.926586912337068
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.937257773095399
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9256415993744812
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9164202679476874
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9499096095434466
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9205477076756148
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9550148843796508
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9475795945546612
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9436222862530714
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.941085344050327
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9185570111151666
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.905428942696922
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9457204485808844
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9505036716125648
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9521563025911146
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9410621189039948
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.934616636092682
+"Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9252201231673652
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9214986620309576
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9225951635106836
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.94380998497359
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9319682739605156
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9427756105119266
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.928258881066385
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9395358793246308
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9190490575229668
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9139455822126984
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9223430812711328
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.9140192723366748
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9273843485372992
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.900698823625373
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9153456021838156
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9347596407173036
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9196232345381908
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9232164814082744
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9454372052631894
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.907335530627332
+"Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9007905043188398
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.964735640678258
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9210333067195292
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9288449496389816
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.94380998497359
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9812784004536376
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9600434942705044
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9077049764951276
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.950134442385153
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9222547058749284
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.947603875669988
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.936727328679836
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9163315483408432
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.9046373467639716
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9125657805425184
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9281893022268184
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.916662212926757
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.91959963924549
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9533834900559388
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9410303519478544
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9489448930833294
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9633756386441176
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9336919077080692
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9175895965396306
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9038355381242508
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9306110556886352
+"Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.924504974773004
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.97082132024947
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9072772498592644
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9072958957186494
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9400559281184758
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9319682739605156
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9812784004536376
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9455821722637068
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9223975161544428
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9486639702774218
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9056946240392556
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.955385756108298
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.943444974007456
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9019289324268288
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9446889804640822
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9100778175204988
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9312161159950694
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9466358493440692
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9442772581213116
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9079292331559736
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9554229052640288
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9046277797583224
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9546269324561524
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9401236577054908
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9302479915897572
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.917642930292908
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9046114173677814
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9446304091776988
+"Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.937668197430123
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9415300171065244
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9534401804696342
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9427756105119266
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9600434942705044
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9455821722637068
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9188576803676576
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9374164019938762
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9309242191911884
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9245154706405057
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9539743967881456
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.902605754389212
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.944149432276152
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9264689407426048
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9197894939392514
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9404130724400748
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9653067389384424
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9059396115554558
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9167804197506556
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9524018319569566
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9003493268923989
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905847507151165
+"Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9037150198196104
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9205555651131008
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9190977144886132
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Brazil) 1 - Citrus limon (L.) Burm. f., cultivar Sicilian, fam. Rutaceae",0.9168774170118306
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Brazil) 2 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9007055939732955
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9259217549690948
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9276234681217098
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9385167847391654
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.926586912337068
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9077049764951276
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9223975161544428
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9149875748888812
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.915546646723817
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9085554039554448
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9306764844758282
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9317118287051916
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905537921464627
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9298494907608976
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9317663482421192
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9242335432378624
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9282967094126195
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9357172751838914
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9454332450124288
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9371774622778076
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9343516735438064
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9323781947978546
+"Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.927666274938604
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9430177992014062
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.937257773095399
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.928258881066385
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.950134442385153
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9486639702774218
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9188576803676576
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9149875748888812
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9068373115142622
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9171169305134892
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9062784436848236
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.9053160319890854
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9165122452310362
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae",0.9093187112852644
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9172178024407044
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9091576072045976
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9560625245935472
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.914716873509535
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.968980238397518
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9010483415592184
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9267581611507328
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9557049561129232
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9279316450346604
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9192518891926904
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9017889936962112
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9121657698043436
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.902948285541848
+"Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9023238922424848
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9000346716792518
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9360058967006946
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9395358793246308
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9222547058749284
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9056946240392556
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9374164019938762
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9068373115142622
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9366143477699562
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.9330246595981232
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9503119485124129
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9012769335551712
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9196498248767988
+"Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.924264922353726
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.94995276818574
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9005697916524805
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9029883716640178
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9256415993744812
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9190490575229668
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.947603875669988
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.955385756108298
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9309242191911884
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.915546646723817
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9171169305134892
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9868939826143948
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9373094558069076
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9294692388120288
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9206647430256588
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.937130470726486
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9186100938023628
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9279606354572572
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9028404815895066
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9494600940241956
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9279229834932456
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9284582903432438
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9096258393463486
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9036118383519124
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9707473564305178
+"Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9689748207068636
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.939608193922318
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9164202679476874
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9139455822126984
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.936727328679836
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.943444974007456
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9245154706405057
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9085554039554448
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9062784436848236
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9868939826143948
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9287882835552578
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9005533726317589
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9331222400912716
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9132218055546348
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9314517892996632
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.908562756031442
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9174649942348518
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9426892428856504
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.919071008873332
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9212418580805756
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.90181393319377
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.96777079682278
+"Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9694308975375476
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9699042521276786
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9223430812711328
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9163315483408432
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9019289324268288
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9539743967881456
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9366143477699562
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9723664205276904
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9447532633015856
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9467227561988772
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9138666586465146
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9381977818072308
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9388025235173302
+"Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9197829087821432
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9140192723366748
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9046373467639716
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.902605754389212
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9053160319890854
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9330246595981232
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.910454823345337
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.902045047114308
+"Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9103588831099264
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.964544835774036
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9273843485372992
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9125657805425184
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.944149432276152
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9503119485124129
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9723664205276904
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.910454823345337
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.92826925676857
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9320675179608876
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9227687530320168
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9286404221031036
+"Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9197170869189144
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9130819168834176
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.912394045415315
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9030440743282868
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9351935116712848
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9295676886543004
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9499096095434466
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9281893022268184
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9446889804640822
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9306764844758282
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9165122452310362
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9373094558069076
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9287882835552578
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9288419128119668
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9048011417891711
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9316433013739054
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9359616394487724
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9289712614780667
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9384535540775856
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.917241008770324
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.91185905309256
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9288675612042016
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.946096412676543
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9458280438607218
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9385718718107862
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9509368090506394
+"Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9437117916573728
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9379631859360578
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.900698823625373
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9264689407426048
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9005533726317589
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9447532633015856
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.92826925676857
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9831380110566348
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9503515879694588
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9641803473881116
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9193613862759148
+"Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9058574531468652
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9376554872261592
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9197894939392514
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9467227561988772
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9320675179608876
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9831380110566348
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9596191062478308
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.948826520609198
+"Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.909862066164196
+"Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9038317930473516
+"Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9138666586465146
+"Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9503515879694588
+"Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9596191062478308
+"Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.918093711930416
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9071706261405652
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9399306898074236
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9153456021838156
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.916662212926757
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9100778175204988
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9404130724400748
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9012769335551712
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9294692388120288
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9331222400912716
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9381977818072308
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9227687530320168
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9641803473881116
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.948826520609198
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14c FMC method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.918093711930416
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9417517717290518
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.931336299224306
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.902967584200126
+"Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9058100278379748
+"Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae","Clementine x Lemon (Italy) 1 - Citrus clementina Hort. ex Tan. x Citrus limon (L.) Burm., fam. Rutaceae",0.9207752836312316
+"Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9415291958353472
+"Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae","Lemon (Italy-Sardinia) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9393800217277808
+"Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9038922314366118
+"Lemon (Italy-Sicily) 15b Femminello continella - Citrus limon (L.) Burm. f., cultivar Femminello continella, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9018863425290096
+"Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9093187112852644
+"Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9037654045585992
+"Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.917901929662642
+"Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9008718541530296
+"Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9218911374513294
+"Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9189370203856488
+"Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.910760480425692
+"Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9226774069194196
+"Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9206160329410336
+"Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9032255154919004
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9303992681170444
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9202548169681548
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9205477076756148
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.91959963924549
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9312161159950694
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9317118287051916
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9172178024407044
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9206647430256588
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9132218055546348
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9288419128119668
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9136667452069308
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9163263831079074
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.932190272369831
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9109579135309568
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.900861923960586
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9225241631110008
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9246122285796304
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9184191577737464
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9094411193566828
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9282809730751296
+"Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9231011825645216
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9355971183607572
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9420866175884192
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9347596407173036
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9533834900559388
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9466358493440692
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9653067389384424
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9091576072045976
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9196498248767988
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.937130470726486
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9314517892996632
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9388025235173302
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9286404221031036
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9048011417891711
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9193613862759148
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14b Pelatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.909862066164196
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9417517717290518
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9059301673441156
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.914559360443979
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9515960137036052
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9148845505283912
+"Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9142922525781992
+"Lemon (Spain) 2 - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae","Lemon (Spain) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.91864314050978
+"Lemon (Spain) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Spain) 4 - Citrus limon (L.) Burm. f., cultivar Villafranca, fam. Rutaceae",0.9446763932544772
+"Lemon (Spain) 4 - Citrus limon (L.) Burm. f., cultivar Villafranca, fam. Rutaceae","Lemon (Spain) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9446763932544772
+"Lemon (Spain) 4 - Citrus limon (L.) Burm. f., cultivar Villafranca, fam. Rutaceae","Lemon (Spain) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9252862940929426
+"Lemon (Spain) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Spain) 2 - Citrus limon (L.) Burm. f., cultivar Fino, fam. Rutaceae",0.91864314050978
+"Lemon (Spain) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Spain) 4 - Citrus limon (L.) Burm. f., cultivar Villafranca, fam. Rutaceae",0.9252862940929426
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9303982332209084
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9550148843796508
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9196232345381908
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9410303519478544
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9442772581213116
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9059396115554558
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905537921464627
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9560625245935472
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9186100938023628
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.908562756031442
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.902045047114308
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9316433013739054
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae",0.9037654045585992
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9136667452069308
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9059301673441156
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9287127988450554
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9535021033850798
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.916464806797618
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9318751657682182
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9405764876597272
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.928103759169708
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.925913004326002
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.911876216269018
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9179566370436494
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9076992534987016
+"Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905465254993979
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.942936955426484
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9356023379085164
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9238094568387256
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9008316551207114
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9207434684826534
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9292663005415632
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9475795945546612
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9079292331559736
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9298494907608976
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.914716873509535
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9359616394487724
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9163263831079074
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9287127988450554
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.925476137879572
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9570367318477588
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9328041923325876
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9278394197697816
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9422655802482576
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9613340459772214
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9537506241203826
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9111374103767091
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9013878977562538
+"Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9180696779646405
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9509074556711956
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.916849114455806
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9436222862530714
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9232164814082744
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9489448930833294
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9554229052640288
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9167804197506556
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9317663482421192
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.968980238397518
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9279606354572572
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9174649942348518
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9289712614780667
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.932190272369831
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.914559360443979
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9535021033850798
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.925476137879572
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9126597465217968
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9242024938771468
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.950640169247484
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9322955155940134
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9244630058870348
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9100068211853888
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9281749265472377
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9188508749505298
+"Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9047416390301816
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9489420715017768
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9485392450598988
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.921469611188007
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.908472733794148
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9311707525515708
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.941085344050327
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9046277797583224
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9242335432378624
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9010483415592184
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9028404815895066
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9384535540775856
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9109579135309568
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.916464806797618
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9570367318477588
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9126597465217968
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9392091583868344
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9237354369502394
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9466682539928132
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9602060690725492
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.963947836569816
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9252002191063772
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9166247677077984
+"Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9265437539360816
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9377233049564822
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (France-Corsica) 1d Lisbon - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9295162323091394
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9185570111151666
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9454372052631894
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9633756386441176
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9546269324561524
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9524018319569566
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9267581611507328
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily)  9 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.924264922353726
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9494600940241956
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9426892428856504
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 12a Femminello - Citrus limon (L.) Burm. f., cultivar Femminello, fam. Rutaceae",0.9197829087821432
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 12b Lo Porto - Citrus limon (L.) Burm. f., cultivar Lo Porto, fam. Rutaceae",0.9103588831099264
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 12c Monachello - Citrus limon (L.) Burm. f., cultivar Monachello, fam. Rutaceae",0.9197170869189144
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.917241008770324
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 14a Sfumatrice method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9058574531468652
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.931336299224306
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.900861923960586
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9515960137036052
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9318751657682182
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9242024938771468
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9171832950559368
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9047252570855704
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9270547817898764
+"Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.922043752863528
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9679268749795348
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9677149718812942
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.952480588445942
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9195029410276312
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.917824757716698
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9054289426969232
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9282967094126195
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.91185905309256
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9206160329410336
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9328041923325896
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9392091583868366
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9033146254256568
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9328049069649526
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9407885879526988
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9500742917772284
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9037137730069734
+"Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9161563953007844
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9396388146400472
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9021205709979072
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9457204485808844
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.907335530627332
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9336919077080692
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9401236577054908
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9003493268923989
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9357172751838914
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9557049561129232
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9279229834932456
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.919071008873332
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9288675612042016
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae",0.917901929662642
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9225241631110008
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9405764876597272
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9278394197697816
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.950640169247484
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9237354369502394
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9171832950559368
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9033146254256584
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9648843814076058
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9453949773961916
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9310734964171904
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9321318744308033
+"Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9231861557306242
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.92605541176406
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9262244504776228
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.907125891021895
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9291157483082122
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9165257629302964
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9505036716125648
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9175895965396306
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9302479915897572
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9454332450124288
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9279316450346604
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9284582903432438
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9212418580805756
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.946096412676543
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Italy-Sicily) 15c Femminello incappuciato - Citrus limon (L.) Burm. f., cultivar Femminello incappuciato, fam.Rutaceae",0.9008718541530296
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9246122285796304
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.928103759169708
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9422655802482576
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9322955155940134
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9466682539928132
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9047252570855704
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9328049069649544
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9648843814076058
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9701783436829398
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9589217297053462
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9440716749512846
+"Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9359099197383796
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9377113544306486
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9356068121433456
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.918377964836158
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9138973270563132
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9015053247708822
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9214980503234784
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9521563025911146
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9038355381242508
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.917642930292908
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9371774622778076
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9192518891926904
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9096258393463486
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.90181393319377
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9458280438607218
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9184191577737464
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.925913004326002
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9613340459772214
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9244630058870348
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9602060690725492
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9407885879526968
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9453949773961916
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9701783436829398
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9720519408563948
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9276599684678988
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9194328775916442
+"Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9090981582236108
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9498842112868636
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9484371675691328
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9236388467203608
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.9008432772623918
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9078101346858968
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9227933168379892
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9410621189039948
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9046114173677814
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9343516735438064
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9017889936962112
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9036118383519124
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9385718718107862
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9094411193566828
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.911876216269018
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9537506241203826
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9100068211853888
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.963947836569816
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9500742917772312
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9310734964171904
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9589217297053462
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9720519408563948
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9253464126619868
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9179627829317905
+"Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae","Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9215243580506112
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9029388850214364
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9074062938826684
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.940133282321894
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9244897106609848
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.934616636092682
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9007905043188398
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9306110556886352
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9446304091776988
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905847507151165
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9323781947978546
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9121657698043436
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9707473564305178
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.96777079682278
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9509368090506394
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.902967584200126
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9282809730751296
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9148845505283912
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9179566370436494
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9111374103767091
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9281749265472377
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9252002191063772
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.9270547817898764
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9037137730069734
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9321318744308033
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9440716749512846
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9276599684678988
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9253464126619868
+"Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae",0.985746130369245
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9027710657793672
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (France-Corsica) 1c Limoneira - Citrus limon (L.) Burm. f., cultivar Limoneira, fam. Rutaceae",0.936023533115004
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.920420887329574
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9252201231673652
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.924504974773004
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  5 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.937668197430123
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  6 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9037150198196104
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.927666274938604
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.902948285541848
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 10 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9689748207068636
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 11 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9694308975375476
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 13 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9437117916573728
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily) 14d Torchi method - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9058100278379748
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 3 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9231011825645216
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Japan) 4 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9142922525781992
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9076992534987016
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9013878977562538
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9188508749505298
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9166247677077984
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 2 - Citrus limon (L.) Burm. f., cultivar Vernia, fam. Rutaceae",0.922043752863528
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 4 - Citrus limon (L.) Burm. f., cultivar Mesaro, fam. Rutaceae",0.9231861557306242
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 5 - Citrus limon (L.) Burm. f., cultivar Lisbon, fam. Rutaceae",0.9359099197383796
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9194328775916442
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9179627829317905
+"Lemon (Uruguay) 8b - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Uruguay) 8a - Citrus limon (L.) Burm. f., fam. Rutaceae",0.985746130369245
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Argentina) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9329376029935
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Argentina) 2 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9308602922904938
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (France-Corsica) 1a Lisbon - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9004867585362334
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Israel) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9319336962067768
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Italy-Sicily) 15a Femminello siracusano - Citrus limon (L.) Burm. f., cultivar Femminello siracusano, fam. Rutaceae",0.9038922314366118
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Japan) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9032255154919004
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (USA) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.918069677964642
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uraguay) 1 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9265437539360832
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 3 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae",0.9161563953007844
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 6 - Citrus limon (L.) Burm. f., cultivar Ferres, fam. Rutaceae",0.9090981582236124
+"Lemon 1 - Citrus limon (L.) Burm. f., cultivar Eureka, fam. Rutaceae","Lemon (Uruguay) 7 - Citrus limon (L.) Burm. f., cultivar Vila, fam. Rutaceae",0.9215243580506094
+"Lemon 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Italy-Sicily)  8 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9023238922424848
+"Lemon 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (Spain) 7 - Citrus limon (L.) Burm. f., fam. Rutaceae",0.905465254993979
+"Lemon 2 - Citrus limon (L.) Burm. f., fam. Rutaceae","Lemon (USA-California) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.9047416390301816
+"Lime (Mexican, West Indian, Key) (Vietnam) - Citrus aurantifolia (Christm.) Swingle, fam. Rutaceae","Citrus pennivesiculata peel, Moi - Citrus pennivesiculata (Luash.) Tan., cultivar Moi, fam. Rutaceae",0.9263710472147936
+"Lime (Mexican, West Indian, Key) (Vietnam) - Citrus aurantifolia (Christm.) Swingle, fam. Rutaceae","Lemon (Benin) - Citrus limon (L.) Burm. f., fam. Rutaceae",0.911745533374061
+"Lime (Persian) (Japan) - Citrus latifolia Tanaka, fam. Rutaceae","Lime (Persian) 1 - Citrus latifolia Tanaka, fam. Rutaceae",0.917492344036072
+"Lime (Persian) 1 - Citrus latifolia Tanaka, fam. Rutaceae","Lime (Persian) (Japan) - Citrus latifolia Tanaka, fam. Rutaceae",0.917492344036072
+"Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9040860404041235
+"Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.909748930010617
+"Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9291692865262008
+"Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.91644871260272
+"Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9456466279854728
+"Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.978071190074954
+"Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9326746121920988
+"Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9770138187887172
+"Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9286868694294218
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9456466279854728
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9444174717316322
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9044874061838096
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.944639949901456
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9542826909580158
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9256261019871492
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae",0.9424017303193212
+"Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.918352670907518
+"Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.978071190074954
+"Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9444174717316322
+"Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9315829137249232
+"Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9827216724279324
+"Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9344113157656526
+"Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9040860404041235
+"Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9044874061838096
+"Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Spain) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.90890870936915
+"Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae",0.950650871831496
+"Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9178542732697827
+"Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9477112138706169
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.909748930010617
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9326746121920988
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.944639949901456
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9315829137249232
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.937376131995392
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.958890763170992
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae",0.9170827546735336
+"Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9352735865325706
+"Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9770138187887172
+"Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9542826909580158
+"Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9827216724279324
+"Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.937376131995392
+"Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9375777417776398
+"Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae",0.9055857187007296
+"Mandarin (Italy) 7 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutacaea","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.914760803984465
+"Mandarin (Italy) 8 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Citron (Italy) peel 1a - Citrus medica L., cultivar Diamante, fam. Rutaceae",0.9010267486037064
+"Mandarin (Spain) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.90890870936915
+"Mandarin (Spain) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9148947062913758
+"Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Spain) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9148947062913758
+"Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9030217894232256
+"Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Yuzu (Japan) 2 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9135808523747496
+"Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9121045593697992
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9286868694294218
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9256261019871492
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9344113157656526
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.958890763170992
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9375777417776398
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin (Italy) 7 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutacaea",0.914760803984465
+"Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9236693522490206
+"Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9030217894232256
+"Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9096011350856074
+"Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Yuzu (Japan) 5 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9069022799676996
+"Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Yuzu (Japana) 6 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9005652037118784
+"Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae","Yuzu (Korea) - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9074384533011178
+"Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9424017303193212
+"Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae","Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.950650871831496
+"Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9170827546735336
+"Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae","Mandarin (Italy) 6 distilled - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9055857187007296
+"Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9310835990860892
+"Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae","Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.936232161777612
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9291692865262008
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin (Italy) 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.918352670907518
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9178542732697827
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin (Italy) 5 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9352735865325706
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin 2 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9236693522490206
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae",0.9310835990860892
+"Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9447423994649602
+"Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin (Brazil) - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.91644871260272
+"Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mandarin (Italy) 4 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9477112138706169
+"Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Mapo tangelo - Citrus ssp. Mapo tangelo, fam. Rutaceae",0.936232161777612
+"Shima-mikan peel 1b - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae","Shima-mikan peel 1a - Citrus kinokuni Hort. ex Tanaka, fam. Rutaceae",0.9447423994649602
+"Yuzu (Japan) 1 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Korea) - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9042574183743168
+"Yuzu (Japan) 2 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9135808523747496
+"Yuzu (Japan) 2 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9199725982139868
+"Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Citrus volkameriana (Colombia) - Citrus volkameriana L., fam. Rutaceae",0.903411274674018
+"Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Mandarin 1 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9121045593697992
+"Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9096011350856074
+"Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Japan) 2 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9199725982139868
+"Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Japana) 6 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9281268056739526
+"Yuzu (Japan) 5 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9069022799676996
+"Yuzu (Japan) 5 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Korea) - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.930825921282896
+"Yuzu (Japana) 6 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9005652037118784
+"Yuzu (Japana) 6 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Japan) 3 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9281268056739526
+"Yuzu (Korea) - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Mandarin 3 - Citrus deliciosa Tenore (C. reticulata Blanco, cv.mandarin), fam. Rutaceae",0.9074384533011178
+"Yuzu (Korea) - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Japan) 1 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.9042574183743168
+"Yuzu (Korea) - Citrus junos Sieb. ex Tanaka, fam. Rutaceae","Yuzu (Japan) 5 - Citrus junos Sieb. ex Tanaka, fam. Rutaceae",0.930825921282896

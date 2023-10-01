@@ -1,0 +1,23 @@
+Plant 1,Plant 2,Similarity Score
+"Bitter orange leaf (Petitgrain) (Italy) 1 - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Bitter orange leaf 2 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.9047743726713372
+"Bitter orange leaf (Petitgrain) (Italy) 2b - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Bitter orange leaf (Petitgrain) (Italy) 2c - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.9060430809286002
+"Bitter orange leaf (Petitgrain) (Italy) 2c - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Bitter orange leaf (Petitgrain) (Italy) 2b - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.9060430809286002
+"Bitter orange leaf 1 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Bitter orange leaf 2 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.9007088426592882
+"Bitter orange leaf 2 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Bitter orange leaf (Petitgrain) (Italy) 1 - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.9047743726713372
+"Bitter orange leaf 2 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Bitter orange leaf 1 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.9007088426592882
+"Bitter orange leaf 2 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae","Clary sage (U.S.A.) - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.908635357226692
+"Clary sage (France) 1 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9857555092914012
+"Clary sage (France) 1 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Skimmia laureola (India) 1 - Skimmia laureola Sieb. et Zucc., fam. Rutaceae",0.9466988426338628
+"Clary sage (France) 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage (Tasmania) - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9210258000422874
+"Clary sage (France) 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage 3 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9163520499653502
+"Clary sage (Tasmania) - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage (France) 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9210258000422874
+"Clary sage (Tasmania) - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage 3 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9144100350087074
+"Clary sage (U.S.A.) - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Bitter orange leaf 2 (Petitgrain) - Citrus aurantium L., ssp. amara Engl., fam. Rutaceae",0.908635357226692
+"Clary sage 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage (France) 1 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9857555092914012
+"Clary sage 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Skimmia laureola (India) 1 - Skimmia laureola Sieb. et Zucc., fam. Rutaceae",0.9470747914641848
+"Clary sage 3 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage (France) 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9163520499653502
+"Clary sage 3 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Clary sage (Tasmania) - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9144100350087074
+"Clary sage 3 - Salvia sclarea L., fam. Lamiaceae (Labiatae)","Mentha citrata (Bergamot mint) (Argentina) 1 - Mentha citrata Ehrh., fam. Lamiaceae (Labiatae)",0.900141852097491
+"Mentha citrata (Bergamot mint) (Argentina) 1 - Mentha citrata Ehrh., fam. Lamiaceae (Labiatae)","Clary sage 3 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.900141852097491
+"Skimmia laureola (India) 1 - Skimmia laureola Sieb. et Zucc., fam. Rutaceae","Clary sage (France) 1 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9466988426338628
+"Skimmia laureola (India) 1 - Skimmia laureola Sieb. et Zucc., fam. Rutaceae","Clary sage 2 - Salvia sclarea L., fam. Lamiaceae (Labiatae)",0.9470747914641848

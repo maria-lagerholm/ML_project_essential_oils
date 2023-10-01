@@ -1,0 +1,11 @@
+Plant 1,Plant 2,Similarity Score
+"Cardamom, large (Nepalese) (India) 2 - Amomum subulatum Roxb., fam. Zingiberaceae","Cardamom, large (Nepalese) (India) 3 - Amomum subulatum Roxb., fam. Zingiberaceae",0.923701129283002
+"Cardamom, large (Nepalese) (India) 3 - Amomum subulatum Roxb., fam. Zingiberaceae","Cardamom, large (Nepalese) (India) 2 - Amomum subulatum Roxb., fam. Zingiberaceae",0.923701129283002
+"Eucalyptus globulus 1 - Eucalyptus globulus Labill., fam. Myrtaceae","Eucalyptus globulus 3 - Eucalyptus globulus Labill., fam. Myrtaceae",0.9298111596079356
+"Eucalyptus globulus 1 - Eucalyptus globulus Labill., fam. Myrtaceae","Eucalyptus smithii (Rwanda) - Eucalyptus smithii R. Baker, fam. Myrtaceae",0.9077220602033732
+"Eucalyptus globulus 3 - Eucalyptus globulus Labill., fam. Myrtaceae","Eucalyptus globulus 1 - Eucalyptus globulus Labill., fam. Myrtaceae",0.9298111596079356
+"Eucalyptus globulus 3 - Eucalyptus globulus Labill., fam. Myrtaceae","Rosemary (Greek) - Rosmarinus officinalis L., fam. Lamiaceae (Labiatae)",0.913799178369252
+"Eucalyptus smithii (Rwanda) - Eucalyptus smithii R. Baker, fam. Myrtaceae","Eucalyptus globulus 1 - Eucalyptus globulus Labill., fam. Myrtaceae",0.9077220602033732
+"Eucalyptus smithii (Rwanda) - Eucalyptus smithii R. Baker, fam. Myrtaceae","Eucalyptus smithii (Zambia) - Eucalyptus smithii R. Baker, fam. Myrtaceae",0.9025420424997966
+"Eucalyptus smithii (Zambia) - Eucalyptus smithii R. Baker, fam. Myrtaceae","Eucalyptus smithii (Rwanda) - Eucalyptus smithii R. Baker, fam. Myrtaceae",0.9025420424997966
+"Rosemary (Greek) - Rosmarinus officinalis L., fam. Lamiaceae (Labiatae)","Eucalyptus globulus 3 - Eucalyptus globulus Labill., fam. Myrtaceae",0.913799178369252

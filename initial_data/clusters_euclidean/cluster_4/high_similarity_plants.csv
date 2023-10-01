@@ -1,0 +1,15 @@
+Plant 1,Plant 2,Similarity Score
+"Aframomum citratum (Cameroon) 1 seed - Aframomum citratum (Pereira) K. Schum., fam. Zingiberaceae","Aframomum citratum (Cameroon) 2b seed - Aframomum citratum (Pereira) K. Schum., fam. Zingiberaceae",0.9975015016921512
+"Aframomum citratum (Cameroon) 2b seed - Aframomum citratum (Pereira) K. Schum., fam. Zingiberaceae","Aframomum citratum (Cameroon) 1 seed - Aframomum citratum (Pereira) K. Schum., fam. Zingiberaceae",0.9975015016921512
+"Cymbopogon khasianus (India) - Cymbopogon khasianus (Munro ex Hack.) Bor, fam. Poaceae (Gramineae)","Palmarosa (India) 3 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.9116894825427828
+"Cymbopogon khasianus (India) - Cymbopogon khasianus (Munro ex Hack.) Bor, fam. Poaceae (Gramineae)","Palmarosa (India) 5 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.9022138704122612
+"Ocimum gratissimum (Nigeria) flower - Ocimum gratissimum L., fam. Lamiaceae (Labiatae)","Ocimum gratissimum (Nigeria) stem - Ocimum gratissimum L., fam. Lamiaceae (Labiatae)",0.902651182597732
+"Ocimum gratissimum (Nigeria) stem - Ocimum gratissimum L., fam. Lamiaceae (Labiatae)","Ocimum gratissimum (Nigeria) flower - Ocimum gratissimum L., fam. Lamiaceae (Labiatae)",0.902651182597732
+"Palmarosa (India) 3 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Cymbopogon khasianus (India) - Cymbopogon khasianus (Munro ex Hack.) Bor, fam. Poaceae (Gramineae)",0.9116894825427828
+"Palmarosa (India) 3 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Palmarosa (India) 5 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.9138796953469804
+"Palmarosa (India) 3 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Palmarosa 2 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Germacreae)",0.9257479258435156
+"Palmarosa (India) 5 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Cymbopogon khasianus (India) - Cymbopogon khasianus (Munro ex Hack.) Bor, fam. Poaceae (Gramineae)",0.9022138704122612
+"Palmarosa (India) 5 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Palmarosa (India) 3 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.9138796953469804
+"Palmarosa (India) 7 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Palmarosa (India) 9 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.913813758567684
+"Palmarosa (India) 9 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)","Palmarosa (India) 7 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.913813758567684
+"Palmarosa 2 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Germacreae)","Palmarosa (India) 3 - Cymbopogon martini (Roxb.) Wats, var. martini, fam. Poaceae (Gramineae)",0.9257479258435156
