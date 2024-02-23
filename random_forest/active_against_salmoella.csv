@@ -1,0 +1,8 @@
+Substructure,Morgan Fingerprint Bit Number,Number of Occurrences,Chemical
+ccc,"875, 1750",27,"Coumarins, Ethyl cinnamate, Methyl chavicol, Anethole, (Z)-3-Hexenyl benzoate, Cinnamyl aldehyde, Carvacrol, para-Cymene, Methyl thymol, 2-Phenylethanol, Thymol, Myristicin, Allyl-2,3,4,5-tetramethoxybenzene, Methyl benzoate, ar-Turmerone, (E)-Anethole, Methyl (Z)-cinnamate, 2-Hydroxy-4-methoxy-acetophenone, Cuminaldehyde, p-Cresyl methyl ether, (E)-Ethyl cinnamate, 2-Phenylethyl isothiocyanate, Eugenyl acetate, Coumarin, Ethyl (E)-4-methoxycinnamate, Furfural, Eugenol"
+cc(c)O,1607,4,"Thymol, Carvacrol, 2-Hydroxy-4-methoxy-acetophenone, Eugenol"
+cO,1602,5,"Carvacrol, Coumarins, 2-Hydroxy-4-methoxy-acetophenone, Thymol, Eugenol"
+cc(c)C,1365,5,"Carvacrol, ar-Turmerone, para-Cymene, Coumarins, Cuminaldehyde"
+cccc(c)C,1853,4,"Carvacrol, ar-Turmerone, para-Cymene, Cuminaldehyde"
+ccc(cc)C(C)C,1930,1,Carvacrol
+ccc(O)c(c)C,741,1,Carvacrol

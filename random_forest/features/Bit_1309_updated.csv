@@ -1,0 +1,21 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_1309,BitInterpretations,Concentration
+Neolitsea brassii,0,No Reference,[C@]12([C@@H](CC[C@H]([C@@]2(CCC(=C1)C)O)C)C(C)C)[H],Cubenol,1,"[(12, 'C', 1, 'CC')]",0.09
+Anethum graveolens,1,DOI:10.5281/zenodo.159101,[H][C@@]12OC[C@@H](C)[C@]1([H])CCC(C)=C2,Dill ether,1,"[(4, 'C', 1, 'CC')]",0.1485
+Guerea macrophylla,0,No Reference,CC1CCC2C1C=C(CCC2(C)O)C(C)C,Guai-6-en-10beta-ol,1,"[(0, 'C', 1, 'CC')]",0.173
+Neolitsea australiensis,0,No Reference,CC1CCC2=C1CC(CCC2C)C(C)(C)O,Guaiol,1,"[(0, 'C', 1, 'CC'), (11, 'C', 1, 'CC')]",0.163
+Atractylodes lancea,0,No Reference,C[C@H]1CCC=C(C)[C@]11CC[C@H](C1)C(C)(C)O,Hinesol,1,"[(0, 'C', 1, 'CC')]",0.1
+Agathosma betulina,0,No Reference,CC1CCC(=C(C1=O)O)C(C)C,Isodiosphenol,1,"[(7, 'C', 1, 'CC')]",0.1858
+Agathosma betulina,0,No Reference,CC(C)[C@H]1CC[C@@H](C)CC1=O,Isomenthone,1,"[(7, 'C', 1, 'CC')]",0.1991
+Mentha spicata,0,DOI:10.1155/2015/916305,CC(C)[C@H]1CC[C@@H](C)CC1=O,Isomenthone,1,"[(7, 'C', 1, 'CC')]",0.165
+Artemisia alba,0,No Reference,O=C1[C@H]([C@]2(C([C@](C2)(C1)[H])(C)C)[H])C,Isopinocamphone,1,"[(10, 'C', 1, 'CC')]",0.346
+Guerea macrophylla,0,No Reference,CC1CCC2C1C1C(CCC2(C)O)C1(C)C,Ledol,1,"[(0, 'C', 1, 'CC')]",0.139
+Mentha arvensis,0,DOI:10.3390/foods12213938,CC(C)[C@H]1CC[C@H](C)C[C@@H]1O,Menthol,1,"[(7, 'C', 1, 'CC')]",0.2877
+Mentha piperita,0,DOI:10.3390/molecules24050900,CC(C)[C@H]1CC[C@H](C)C[C@@H]1O,Menthol,1,"[(7, 'C', 1, 'CC')]",0.412
+Agathosma betulina,0,No Reference,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(7, 'C', 1, 'CC')]",0.0982
+Mentha arvensis,0,DOI:10.3390/foods12213938,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(7, 'C', 1, 'CC')]",0.3112
+Mentha piperita,0,DOI:10.3390/molecules24050900,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(7, 'C', 1, 'CC')]",0.145
+Mentha spicata,0,DOI:10.1155/2015/916305,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(7, 'C', 1, 'CC')]",0.572
+Vitis vinifera,0,No Reference,CC1CCC=C2CCC(CC12C)C(C)=C,Valencene,1,"[(0, 'C', 1, 'CC')]",0.318
+Laurus nobilis,1,DOI:10.3390/foods5020028,CC1CCC2=C(C)CCC3C(C12)C3(C)C,Viridiflorene,1,"[(0, 'C', 1, 'CC')]",0.122
+Salvia officinalis,1,DOI:10.1016/j.meatsci.2011.11.026,[H][C@@]12C[C@@]1(CC(=O)[C@H]2C)C(C)C,alpha-Thujone,1,"[(7, 'C', 1, 'CC')]",0.234
+Achillea millefolium,0,DOI:10.3390/medicines4020030,[H][C@]12C[C@]1(CC(=O)[C@H]2C)C(C)C,beta-Thujone,1,"[(7, 'C', 1, 'CC')]",0.135

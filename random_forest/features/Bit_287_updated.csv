@@ -1,0 +1,25 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_287,BitInterpretations,Concentration
+Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.221
+Thymus riatarum,1,DOI:10.3390/medicines3030019,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.223
+Thymus quinquecostatus,1,DOI:10.1007/BF02973874,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.1123
+Thymus mongolicus,1,DOI:10.3390/molecules26020307,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.512
+Saturiea hortensis,1,DOI:10.22037/afb.v1i1.7134,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.5715
+Satureja hortensis,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.5715
+Origanum vulgare,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.2925
+Origanum syriacum,1,DOI:10.4103/japtr.japtr_106_21,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.883
+Origanum onites,1,DOI:10.1016/j.foodcont.2009.07.016,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.75
+Origanum glandulosum,1,DOI:10.1016/j.foodchem.2007.05.050,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.41
+Thymus richardii,1,DOI:10.3390/molecules28124803,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.131
+Thymus satureoides,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.2
+Corydothymus capitatus,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.736
+Coridothymus capitatus,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.736
+Coleus aromaticus,1,DOI:10.1155/2012/457150,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.1325
+Artemisia chamaemelifolia,1,DOI:10.1590/S0102-695X2013000600002,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.163
+Lippia graveolens,1,DOI:10.3390/pathogens12101245,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 2, 'ccc(C)c(c)O')]",0.165
+Perilla acuta,0,No Reference,CC(=C)C1CCC(=CC1)C=O,Perilla aldehyde,1,"[(5, 'C', 2, 'C=C(C)CCC')]",0.434
+Elsholtzia blanda,0,No Reference,CC(C)C1CC=C(C)C=C1,alpha-Phellandrene,1,"[(5, 'C', 2, 'CCC=C(C)C')]",0.0912
+Cinnamomum angustifolium,1,DOI:10.3390/antibiotics12020254,CC(C)C1CC=C(C)C=C1,alpha-Phellandrene,1,"[(5, 'C', 2, 'CCC=C(C)C')]",0.234
+Angelica archangelica,0,No Reference,CC(C)C1CC=C(C)C=C1,alpha-Phellandrene,1,"[(5, 'C', 2, 'CCC=C(C)C')]",0.0961
+Anethum graveolens,1,DOI:10.5281/zenodo.159101,CC(C)C1CC=C(C)C=C1,alpha-Phellandrene,1,"[(5, 'C', 2, 'CCC=C(C)C')]",0.2488
+Aegle marmelos,1,DOI:10.3389/fvets.2023.1188752,CC(C)C1CC=C(C)C=C1,alpha-Phellandrene,1,"[(5, 'C', 2, 'CCC=C(C)C')]",0.1331
+Curcuma longa,1,DOI:10.3389/fvets.2023.1188752,CC(CC(=O)C=C(C)C)C1CC=C(C)C=C1,alpha-Turmerone,1,"[(11, 'C', 2, 'CCC=C(C)C')]",0.301

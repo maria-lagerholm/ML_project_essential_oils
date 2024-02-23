@@ -1,11 +1,7 @@
 # Ignore all .json files
 *.json
-*.csv
 
 
-
-# Ignore all files in a specific directory
-studies/
 
 # Ignore all .log files in all directories
 *.log

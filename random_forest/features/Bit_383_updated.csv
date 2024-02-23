@@ -1,0 +1,27 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_383,BitInterpretations,Concentration
+Pinus nigra,0,DOI:10.1504/ijewm.2013.055590,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.4849
+Picea engelmanni,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.0958
+Nigella sativa,0,DOI:10.1016/0378-8741(91)90047-h,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.093
+Larix decidua,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.3834
+Ferula galbaniflua,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.138
+Pinus sylvestris,0,DOI:10.1504/ijewm.2013.055590,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.281
+Cupressocyparis leylandii,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.1
+Pinus halepensis,0,DOI:10.1016/s2222-1808(14)60323-6,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.158
+Pinus mugo,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.275
+Calyptranthes sintenisii,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.1248
+Angelica archangelica,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.1814
+Abies nordmannia,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.3409
+Pinus pinaster,0,DOI:10.1504/ijewm.2013.055590,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.71
+Pinus sibirica,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.572
+Abies balsamea,0,DOI:10.3390/f10111042,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.1027
+Chaerophyllum macrospermum,0,No Reference,CC1=CC[C@@H]2C[C@H]1C2(C)C,alpha-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.194
+Pinus nigra,0,DOI:10.1504/ijewm.2013.055590,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.0957
+Pinus pinaster,0,DOI:10.1504/ijewm.2013.055590,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.26
+Abies balsamea,0,DOI:10.3390/f10111042,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.2353
+Ferula galbaniflua,0,No Reference,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.599
+Citrus sinensis,0,DOI:10.3390/molecules26113412,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(1, 'C', 2, 'CC1CC(C)C1(C)C')]",0.13
+Calyptranthes sintenisii,0,No Reference,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.1799
+Abies nordmannia,0,No Reference,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(7, 'C', 2, 'C[C@@H]1C[C@H](C)C1(C)C')]",0.1658
+Abies borisii-regis,0,No Reference,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(1, 'C', 2, 'CC1CC(C)C1(C)C')]",0.114
+Croton zambesicus,0,No Reference,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(1, 'C', 2, 'CC1CC(C)C1(C)C')]",0.189
+Piper nigrum,1,DOI:10.3389/fvets.2023.1188752,CC1(C)C2CC1C(=C)CC2,beta-Pinene,1,"[(1, 'C', 2, 'CC1CC(C)C1(C)C')]",0.0963

@@ -1,0 +1,74 @@
+Chemical Name,SMILES
+beta-Isomethylionone,CC1C=CCC(C1C=C(C)C(=O)C)(C)C
+"3a,4-dihydro-Isobutylidenephthalide",CC(C)C=C1C2CC=CC=C2C(=O)O1
+(+)-3-Octanol,O[C@@H](CC)CCCCC
+Isopiperitone,CC1=CC(=O)C(CC1)C(C)C
+9-Methyl-2-decanone,CC(C)CCCCCCC(=O)C
+"4-(3,4-Methylenedioxyphenyl)-2-butyl acetate",CC(CCc1ccc2c(c1)OCO2)OC(=O)C
+11-Methyl-2-dodecanone,CC(C)CCCCCCCCC(C)=O
+"3,6,6-Trimethyl-2,4-cycloheptadien-1-one",CC1=CC(=O)CC(C=C1)(C)C
+"2,5-Dimethoxy-m-cymene",Cc1cc(cc(c1OC)C(C)C)OC
+Pinanol,CC1CCC2CC1(C2(C)C)O
+2-Hexenylfuran,CCCC/C=C/c1ccco1
+"3,7-Dimethyl-1,6-octadien-3,5-diol",CC(=CC(CC(C)(C=C)O)O)C
+"3,9-Epoxy-p-cymene",Cc1ccc2c(c1)OCC2C
+Amyl levulinate,CCCCCOC(=O)CCC(=O)C
+cis-Myrtanal,C[C@]1([C@H]2[C@H](CC[C@@H]1C2)C=O)C
+Plinol,CC1C(CCC1(C)O)C(=C)C
+Propyl 3-phenylpropanoate,CCCOC(=O)CCc1ccccc1
+10-epi-Junenol,CC(C)[C@@H]1CC[C@@]2(CCCC(=C)[C@@H]2[C@H]1O)C
+cyclic-beta-Ionone,CC1=CC=C2C(CCCC2(O1)C)(C)C
+"Guaia-3,7-diene",C[C@H]1CC=C(C[C@@H]2[C@H]1CC=C2C)C(C)C
+2-Undecenol,CCCCCCCCC=CCO
+"(E)-2,6,10-Trimethyl-2,6-undecadiene",CC(C)CC/C=C(/C)\CCC=C(C)C
+"2-Formyl-1,1,5-trimethylcyclohexa-2,5-dien-4-one",CC1=CC(C(=CC1=O)C=O)(C)C
+2-Methylbenzyl butyrate,CCCC(=O)OCc1ccccc1C
+"3,5-Dimethyl-2-vinylfuran",Cc1cc(oc1C=C)C
+beta-Naginatene,Cc1ccoc1CCC(=C)C
+ar-Dihydroturmerone,Cc1ccc(cc1)[C@@H](C)CC(=O)CC(C)C
+Di(ethylene glycol) ethyl ether,CCOCCOCCO
+"4,6,6-Trimethyl-2-cyclohexen-1-one",CC1CC(C(=O)C=C1)(C)C
+N-Phenyl formamide,c1ccc(cc1)NC=O
+"2,2,6-Trimethyl-6-vinyldihydro-2H-pyran-3(4H)-one",CC1(C(=O)CCC(O1)(C)C=C)C
+2-Hexenylcyclopropyl acetate,CCCCCCC1=CC1OC(=O)C
+"2,6-Dimethyl-1,5,7-octatrien-3-ol",CC(=C)C(CC=C(C)C=C)O
+p-Methoxycinnamyl acetate,CC(=O)OC/C=C/c1ccc(cc1)OC
+Longipinanol,C[C@@H]1C2CC[C@@](C3C1CCC(C23)(C)C)(C)O
+"cis-p-Mentha-1(7),5-dien-2-ol",CC(C)[C@H]1C[C@H](C(=C)C=C1)O
+"Guaia-6,10(14)-dien-4beta-ol",O[C@@]1([C@@H]2\C=C(/CCC(=C)\[C@@H]2CC1)C(C)C)C
+cis-4-Caranone,C[C@@H]1C[C@H]2[C@H](C2(C)C)CC1=O
+trans-4-Caranone,C[C@H]1C[C@H]2[C@H](C2(C)C)CC1=O
+"2,2,5,5-Tetramethyl-3,4(2H,5H)-furandione",CC1(C(=O)C(=O)C(O1)(C)C)C
+Camphorenone,CC(=CCCC1(C2CCC1(C(=O)C2)C)C)C
+"1-Phenyl-2,4-hexadiene",CC=CC=CCc1ccccc1
+(E)-4-Dodecenyl acetate,CCCCCCC/C=C/CCCOC(=O)C
+(Z)-1-Methyl-3-phenylprop-2-enyl acetate,CC(C=Cc1ccccc1)OC(=O)C
+(E)-9-Eicosene,CCCCCCCCCC/C=C/CCCCCCCC
+(E)-5-Eicosene,CCCCCCCCCCCCCC/C=C/CCCC
+2-Methylene-3-buten-1-yl benzoate,C=CC(=C)COC(=O)c1ccccc1
+bis-(1-Methylpropenyl) disulfide,CC(C=C)SSC(C)C=C
+"1,2,3,6-Tetramethylbicyclo[2.2.2]octa-2,5-diene",CC1=CC2CCC1(C(=C2C)C)C
+iso-Bisabolene,CC(=CCCC(=C)C1CCC(=C)CC1)C
+Lavender lactol,OC1OC(\C=C)(C)CC1
+cis-Davanone,CC([C@@H]1CC[C@](O1)(C)C=C)C(=O)CC=C(C)C
+(E)-2-Methoxycinnamyl acetate,CC(=O)OCC=CC1C=CC=CC=1OC
+4-Formylbenzyl acetate,CC(=O)OCc1ccc(cc1)C=O
+Guai-6(7)-en-11-ol,C[C@H]1CC[C@@H]2[C@H]1C=C(CC[C@@H]2C)C(C)(C)O
+Pentyl 4-isopropylbenzoate,CCCCCOC(=O)c1ccc(cc1)C(C)C
+exo-Isocitral,CC(=CCCC(=C)CC=O)C
+"(+)-(Z)-3,4-Epoxy-hexan-1-yl acetate",CCC1C(O1)CCOC(=O)C
+cis-Anol,C/C=C\c1ccc(cc1)O
+Methyl 3-propenylbenzoate,O=C(OC)c1cccc(/C=C/C)c1
+Methyl 9-tridecenoate,CCCC=CCCCCCCCC(=O)OC
+1-Phenylbicyclo[3.3.1]non-2-en-9-ol,c1ccc(cc1)C23CCCC(C2O)CC=C3
+1-Hydroxy-3-tetradecanone,CCCCCCCCCCCC(=O)CCO
+Dihydrokaranone,C[C@H]1CCCC2=CC(=O)C(=C(C)C)C[C@]12C
+Karanone,O=C\1\C(=C(/C)C)C[C@]2(C(=C/1)/C=C\C[C@@H]2C)C
+2-Propyl-3-thiophenecarbaldehyde,CCCc1c(ccs1)C=O
+"2,3-Dimethyl-5,6-dithiabicyclo[2.1.1]hexane 5,5-dioxide",CC1C(C2SC1S2(=O)=O)C
+"2-Hydroxy-3,5,5-trimethyl-2-cyclohexene-1,4-dione",CC1=C(C(=O)CC(C1=O)(C)C)O
+"3,5,5-Trimethyl-4-methylene-2-cyclohexen-1-one",CC1=CC(=O)CC(C1=C)(C)C
+8-Tridecenal,CCCC/C=C\CCCCCCC=O
+6-Undecenal,C=CCCCCCCCCC=O
+8-Methyl-5-nonenal,CC(C)C/C=C/CCCC=O
+"2,6,6-Trimethyl-3-oxocyclohexa-1,4-diene-1-carboxaldehyde",CC1=C(C(C=CC1=O)(C)C)C=O

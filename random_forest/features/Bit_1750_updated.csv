@@ -1,0 +1,75 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_1750,BitInterpretations,Concentration
+Illicium verum,0,DOI:10.2174/1874944501508010030,COc1ccc(\C=C\C)cc1,(E)-Anethole,1,"[(3, 'C', 1, 'ccc'), (4, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc'), (10, 'C', 1, 'ccc')]",0.827
+Elaeagnus angustifolia,1,DOI:10.3390/molecules25092021,CCOC(=O)C=CC1=CC=CC=C1,(E)-Ethyl cinnamate,1,"[(8, 'C', 1, 'ccc'), (12, 'C', 1, 'ccc')]",0.3279
+Jasminum sambac,0,DOI:DOI:10.3390/coatings12101492,CCC=CCCOC(=O)C1=CC=CC=C1,(Z)-3-Hexenyl benzoate,1,"[(10, 'C', 1, 'ccc'), (14, 'C', 1, 'ccc')]",0.1
+Rheum palmatum,1,10.25141/2471-7371-2015-1.0001,CC(=O)C1=C(C=C(C=C1)OC)O,2-Hydroxy-4-methoxy-acetophenone,1,"[(7, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc')]",0.162
+Mimusops elengi,1,DOI:10.3389/fvets.2023.1188752,OCCC1=CC=CC=C1,2-Phenylethanol,1,"[(5, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.378
+Elaeagnus angustifolia,1,DOI:10.3390/molecules25092021,OCCC1=CC=CC=C1,2-Phenylethanol,1,"[(8, 'C', 1, 'ccc'), (12, 'C', 1, 'ccc')]",0.0935
+Armoracia lapathifolia,1,DOI:10.1007/s10722-013-0010-4,S=C=NCCc1ccccc1,2-Phenylethyl isothiocyanate,1,"[(6, 'C', 1, 'ccc'), (10, 'C', 1, 'ccc')]",0.44
+Foeniculum vulgare,1,DOI:10.1186/s12941-020-00371-1,COC1=CC=C(\C=C/C)C=C1,Anethole,1,"[(3, 'C', 1, 'ccc'), (4, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc'), (10, 'C', 1, 'ccc')]",0.7604
+Origanum glandulosum,1,DOI:10.1016/j.foodchem.2007.05.050,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.41
+Satureja hortensis,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.5715
+Saturiea hortensis,1,DOI:10.22037/afb.v1i1.7134,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.5715
+Lippia graveolens,1,DOI:10.3390/pathogens12101245,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.165
+Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.221
+Thymus mongolicus,1,DOI:10.3390/molecules26020307,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.512
+Thymus riatarum,1,DOI:10.3390/medicines3030019,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.223
+Thymus quinquecostatus,1,DOI:10.1007/BF02973874,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.1123
+Coridothymus capitatus,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.736
+Coleus aromaticus,1,DOI:10.1155/2012/457150,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.1325
+Thymus richardii,1,DOI:10.3390/molecules28124803,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(6, 'C', 1, 'ccc'), (7, 'C', 1, 'ccc')]",0.131
+Origanum vulgare,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.2925
+Thymus satureoides,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.2
+Artemisia chamaemelifolia,1,DOI:10.1590/S0102-695X2013000600002,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.163
+Corydothymus capitatus,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.736
+Origanum onites,1,DOI:10.1016/j.foodcont.2009.07.016,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.75
+Origanum syriacum,1,DOI:10.4103/japtr.japtr_106_21,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.883
+Cinnamomum cassia,1,DOI:10.3389/fvets.2023.1188752,C1=CC=C(C=C1)C=CC=O,Cinnamyl aldehyde,1,"[(2, 'C', 1, 'ccc'), (4, 'C', 1, 'ccc')]",0.87
+Anthoxanthum odoratum,0,No Reference,O=C1OC2=CC=CC=C2C=C1,Coumarin,1,"[(4, 'C', 1, 'ccc'), (7, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc'), (10, 'C', 1, 'ccc')]",0.963
+Bupleurum linearifolium,0,No Reference,C1=CC=CC2=C1C(=C(C(O2)=O)C(CC(C)=O)C3=CC=CC=C3)O,Coumarins,1,"[(3, 'C', 1, 'ccc'), (17, 'C', 1, 'ccc'), (0, 'C', 1, 'ccc'), (21, 'C', 1, 'ccc')]",0.183
+Cuminum cyminum,1,DOI:10.22037/afb.v1i1.7134,[H]C(=O)C1=CC=C(C=C1)C(C)C,Cuminaldehyde,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.4348
+Kaempferia galanga,0,10.1002/fsn3.116,CCOC(=O)C=CC1=CC=C(C=C1)OC,Ethyl (E)-4-methoxycinnamate,1,"[(8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc'), (11, 'C', 1, 'ccc'), (12, 'C', 1, 'ccc')]",0.4952
+Kaempferia galanga,0,10.1002/fsn3.116,CCOC(=O)\C=C/C1=CC=CC=C1,Ethyl cinnamate,1,"[(8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc'), (11, 'C', 1, 'ccc'), (12, 'C', 1, 'ccc')]",0.1324
+Ocimum gratissimum,1,DOI:10.1016/j.micpath.2018.03.041,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.2
+Pimenta dioica,1,DOI:10.1016/j.foodcont.2005.11.009,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.87
+Pimenta racemosa,1,DOI:10.5897/JMPR2017.6435,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.527
+Piper betle,1,DOI:10.12982/VIS.2022.042,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.6356
+Eugenia caryophyllus,1,DOI:10.1016/j.foodcont.2005.11.009,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.643
+Cinnamomum zeylanicum,1,10.1007/s10068-017-0241-9,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.1335
+Artemisia scoparia,1,DOI:10.1177/1934578X20915034,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.3
+Eugenia caryophyllus,1,DOI:10.1016/j.foodcont.2005.11.009,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,Eugenyl acetate,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.205
+Piper betle,1,DOI:10.12982/VIS.2022.042,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,Eugenyl acetate,1,"[(5, 'C', 1, 'ccc'), (6, 'C', 1, 'ccc')]",0.1868
+Tamarindus indica,1,DOI:10.4103/0973-1296.66944,O=Cc1ccco1,Furfural,1,"[(3, 'C', 1, 'ccc')]",0.7239
+Cichorium intybus,1,DOI:10.1186/s12941-020-00371-1,O=Cc1ccco1,Furfural,1,"[(3, 'C', 1, 'ccc')]",0.0948
+Averrhoa bilimbi,1,DOI:10.4103/0975-7406.199342,O=Cc1ccco1,Furfural,1,"[(3, 'C', 1, 'ccc')]",0.191
+Zanthoxylum armatum,0,No Reference,COC(=O)\C=C/C1=CC=CC=C1,Methyl (Z)-cinnamate,1,"[(7, 'C', 1, 'ccc'), (11, 'C', 1, 'ccc')]",0.122
+Narcissus jonquilla,0,No Reference,COC(=O)C1=CC=CC=C1,Methyl benzoate,1,"[(5, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.234
+Mimusops elengi,1,DOI:10.3389/fvets.2023.1188752,COC(=O)C1=CC=CC=C1,Methyl benzoate,1,"[(5, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.134
+Ocimum basilicum,1,10.1016/j.foodchem.2021.129940,COC1=CC=C(CC=C)C=C1,Methyl chavicol,1,"[(3, 'C', 1, 'ccc'), (4, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc'), (10, 'C', 1, 'ccc')]",0.243
+Thymus richardii,1,DOI:10.3390/molecules28124803,COc1cc(C)ccc1C(C)C,Methyl thymol,1,"[(6, 'C', 1, 'ccc'), (7, 'C', 1, 'ccc')]",0.124
+Lippia graveolens,1,DOI:10.3390/pathogens12101245,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.463
+Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.372
+Coleus aromaticus,1,DOI:10.1155/2012/457150,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.413
+Thymus vulgaris,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.272
+Origanum glandulosum,1,DOI:10.1016/j.foodchem.2007.05.050,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.225
+Thymus zygis,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.5165
+Majorana hortensis,1,DOI:10.1155/2016/3694901,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.1155
+Satureja thymbra,1,DOI:10.1080/14786410310001608145,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.66
+Thymus satureoides,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)cc1O,Thymol,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.1
+Curcuma longa,1,DOI:10.3389/fvets.2023.1188752,C[C@@H](CC(=O)C=C(C)C)C1=CC=C(C)C=C1,ar-Turmerone,1,"[(10, 'C', 1, 'ccc'), (11, 'C', 1, 'ccc'), (14, 'C', 1, 'ccc'), (15, 'C', 1, 'ccc')]",0.167
+Mimusops elengi,1,DOI:10.3389/fvets.2023.1188752,CC1=CC=C(C=C1)OC,p-Cresyl methyl ether,1,"[(5, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.0994
+Cinnamomum angustifolium,1,DOI:10.3390/antibiotics12020254,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.176
+Thymus vulgaris,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.236
+Thymus zygis,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.1985
+Cuminum cyminum,1,DOI:10.22037/afb.v1i1.7134,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.2228
+Origanum glandulosum,1,DOI:10.1016/j.foodchem.2007.05.050,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.14
+Eucalyptus camaldulensis,1,DOI:10.5812/jjnpp.65050,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.152
+Thymus mongolicus,1,DOI:10.3390/molecules26020307,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.1174
+Satureja montana,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.131
+Melaleuca alternifolia,0,DOI:10.1177/1934578X19878904,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.1142
+Monarda didyma,0,No Reference,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.11
+Nigella sativa,0,DOI:10.1016/0378-8741(91)90047-h,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.317
+Origanum vulgare,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.3357
+Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc')]",0.118
+Thymus riatarum,1,DOI:10.3390/medicines3030019,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.175
+Anethum graveolens,1,DOI:10.5281/zenodo.159101,CC(C)c1ccc(C)cc1,para-Cymene,1,"[(4, 'C', 1, 'ccc'), (5, 'C', 1, 'ccc'), (8, 'C', 1, 'ccc'), (9, 'C', 1, 'ccc')]",0.1438
