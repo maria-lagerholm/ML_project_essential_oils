@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdkit="http://www.rdkit.org/xml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" xml:space="preserve" width="150px" height="150px" viewBox="0 0 150 150">
+<!-- END OF HEADER -->
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="150.0" height="150.0" x="0.0" y="0.0"> </rect>
+<ellipse cx="114.9" cy="116.2" rx="19.1" ry="19.1" class="atom-1" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:1.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0 atom-0 atom-1" d="M 33.5,142.5 L 114.9,116.2" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:5.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0 atom-0 atom-1" d="M 29.1,128.9 L 102.7,105.1" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:5.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,4"/>
+<path class="bond-1 atom-1 atom-2" d="M 114.9,116.2 L 134.7,24.6" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:5.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1 atom-1 atom-2" d="M 102.7,105.1 L 120.6,21.5" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:5.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,4"/>
+<path d="M 110.9,117.6 L 114.9,116.2 L 115.9,111.7" style="fill:none;stroke:#E5E5E5;stroke-width:5.1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"/>
+<path class="atom-0" d="M 16.6 135.7 L 20.6 131.7 L 15.3 130.6 L 16.1 127.9 L 21.0 130.3 L 20.3 125.0 L 23.2 125.0 L 22.4 130.3 L 27.3 128.0 L 28.2 130.6 L 22.8 131.6 L 26.6 135.7 L 24.3 137.4 L 21.7 132.3 L 19.0 137.4 L 16.6 135.7 " fill="#191919"/>
+<path class="atom-2" d="M 122.9 18.2 L 126.9 14.2 L 121.6 13.1 L 122.4 10.4 L 127.3 12.9 L 126.6 7.5 L 129.5 7.5 L 128.7 12.8 L 133.6 10.5 L 134.4 13.1 L 129.1 14.1 L 132.9 18.2 L 130.6 19.9 L 127.9 14.8 L 125.3 19.9 L 122.9 18.2 " fill="#191919"/>
+</svg>

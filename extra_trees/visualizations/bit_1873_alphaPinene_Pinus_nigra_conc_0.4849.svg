@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdkit="http://www.rdkit.org/xml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" xml:space="preserve" width="150px" height="150px" viewBox="0 0 150 150">
+<!-- END OF HEADER -->
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="150.0" height="150.0" x="0.0" y="0.0"> </rect>
+<ellipse cx="99.0" cy="111.2" rx="17.2" ry="17.2" class="atom-1" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:1.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0 atom-0 atom-1" d="M 141.4,38.8 L 99.0,111.2" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0 atom-0 atom-1" d="M 130.3,32.3 L 91.6,98.3" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1 atom-1 atom-2" d="M 99.0,111.2 L 21.8,110.8" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path d="M 101.1,107.6 L 99.0,111.2 L 95.1,111.2" style="fill:none;stroke:#E5E5E5;stroke-width:4.6px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"/>
+<path class="atom-0" d="M 132.2 31.3 L 135.7 27.6 L 131.0 26.7 L 131.7 24.2 L 136.1 26.4 L 135.5 21.7 L 138.0 21.6 L 137.3 26.4 L 141.7 24.3 L 142.5 26.7 L 137.7 27.6 L 141.1 31.2 L 139.0 32.7 L 136.7 28.2 L 134.3 32.7 L 132.2 31.3 " fill="#191919"/>
+<path class="atom-2" d="M 8.7 108.0 L 12.2 104.4 L 7.5 103.4 L 8.2 101.0 L 12.6 103.2 L 12.0 98.4 L 14.5 98.4 L 13.8 103.2 L 18.2 101.1 L 19.0 103.4 L 14.2 104.3 L 17.6 108.0 L 15.5 109.5 L 13.2 105.0 L 10.8 109.5 L 8.7 108.0 " fill="#191919"/>
+</svg>
