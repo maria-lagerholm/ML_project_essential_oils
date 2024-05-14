@@ -1,6 +1,4 @@
 Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_875,BitInterpretations,Concentration
-Rheum palmatum,1,10.25141/2471-7371-2015-1.0001,CC(=O)C1=C(C=C(C=C1)OC)O,2-Hydroxy-4-methoxy-acetophenone,1,"[(5, 'C', 1, 'ccc')]",0.162
-Petroselinum crispum,1,DOI:10.3389/fvets.2023.1188752,C=CCc1cc(OC)c(OC)c(OC)c1OC,"Allyl-2,3,4,5-tetramethoxybenzene",1,"[(4, 'C', 1, 'ccc')]",0.2594
 Artemisia chamaemelifolia,1,DOI:10.1590/S0102-695X2013000600002,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(10, 'C', 1, 'ccc')]",0.163
 Thymus satureoides,1,DOI:10.1016/j.foodcont.2005.11.009,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(8, 'C', 1, 'ccc')]",0.2
 Thymus richardii,1,DOI:10.3390/molecules28124803,CC(C)c1ccc(C)c(O)c1,Carvacrol,1,"[(3, 'C', 1, 'ccc')]",0.131
@@ -27,8 +25,6 @@ Piper betle,1,DOI:10.12982/VIS.2022.042,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(11, 
 Eugenia caryophyllus,1,DOI:10.1016/j.foodcont.2005.11.009,COC1=C(O)C=CC(CC=C)=C1,Eugenol,1,"[(11, 'C', 1, 'ccc')]",0.643
 Eugenia caryophyllus,1,DOI:10.1016/j.foodcont.2005.11.009,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,Eugenyl acetate,1,"[(11, 'C', 1, 'ccc')]",0.205
 Piper betle,1,DOI:10.12982/VIS.2022.042,CC(=O)OC1=C(C=C(C=C1)CC=C)OC,Eugenyl acetate,1,"[(11, 'C', 1, 'ccc')]",0.1868
-Thymus richardii,1,DOI:10.3390/molecules28124803,COc1cc(C)ccc1C(C)C,Methyl thymol,1,"[(3, 'C', 1, 'ccc')]",0.124
-Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,COC1=CC(CC=C)=CC2=C1OCO2,Myristicin,1,"[(8, 'C', 1, 'ccc')]",0.096
 Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,CC(C)c1ccc(C)cc1O,Thymol,1,"[(8, 'C', 1, 'ccc')]",0.372
 Lippia graveolens,1,DOI:10.3390/pathogens12101245,CC(C)c1ccc(C)cc1O,Thymol,1,"[(8, 'C', 1, 'ccc')]",0.463
 Coleus aromaticus,1,DOI:10.1155/2012/457150,CC(C)c1ccc(C)cc1O,Thymol,1,"[(8, 'C', 1, 'ccc')]",0.413

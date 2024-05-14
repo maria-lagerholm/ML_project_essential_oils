@@ -1,8 +1,10 @@
 Substructure,Morgan Fingerprint Bit Number,Number of Occurrences,Chemical
-CC,1309,15,"Ledol, Isopinocamphone, Menthol, beta-Thujone, Hinesol, Menthone, Dill ether, Isomenthone, Isodiosphenol, Guaiol, Viridiflorene, alpha-Thujone, Valencene, Cubenol, Guai-6-en-10beta-ol"
-CCC=C(C)C,1574,19,"Citronellyl acetate, Geranyllinalool, Farnesyl acetate, (E)-Nerolidol, (-)-Citronellal, (E,Z)-alpha-Farnesene, Geranyl acetate, (E,E)-Farnesol, beta-Bisabolene (tent.), Geranic acid, Linalyl acetate, Citronellol, Neryl acetate, Geranial, Geraniol, Myrcene, (Z)-beta-Farnesene, Linalool, Neral"
-C=C(C)C,"171",3,"alpha-Eudesmol, alpha-Pinene, alpha-Copaene"
-C[C@@H]1C[C@H](C)C1(C)C,383,2,"beta-Pinene, alpha-Pinene"
-CC(C)C,1950,4,"alpha-Eudesmol, beta-Pinene, alpha-Pinene, beta-Eudesmol"
-CC(C)(C)C,549,7,"Ledol, Isopinocamphone, delta-3-Carene, Bicyclogermacrene, beta-Pinene, Viridiflorene, alpha-Pinene"
-CCC=C(C)C,287,5,alpha-Phellandrene
+CC(C)(C)C,549,7,"Isopinocamphone, delta-3-Carene, Bicyclogermacrene, Ledol, alpha-Pinene, Viridiflorene, beta-Pinene"
+CCC,794,21,"Sabinene, Methyl octadecanoate, 7-Dodecenal, Methyl propyl trisulfide, Dipropyl disulfide, Tetradecanoic acid, Oleic acid, Alkanes, Ligustilide, Camphor, Methyl linoleate, (Z)-3-Hexenyl butyrate, Linolenic acid, Hexadecanoic acid, Linoleic acid, 9-Tetradecenal, Dodecanal, Ethyl linoleate, Decanal, Ethyl hexadecanoate, Pentadecane"
+,807,80,"Isopiperitenol, Terpinyl acetate, Ethyl cinnamate, Neral, beta-Elemene, beta-Eudesmol, (E)-Nerolidol, (E)-Ethyl cinnamate, Geranyl acetate, Oleic acid, Ethyl (E)-4-methoxycinnamate, Geranyllinalool, alpha-Turmerone, Menthol, Carvacrol, Carotol, Ethyl acetate, Methyl benzoate, Diethyl malonate, (E)-beta-Ocimene, Guai-6-en-10beta-ol, 2-Hydroxy-4-methoxy-acetophenone, ar-Turmerone, Camphor, Methyl linoleate, Lavandulyl isovalerate, beta-Turmerone, (E)-beta-Ionone, Ethyl linoleate, Myrcene, Terpinen-4-ol, Thymol, Eugenol, 3-Butenyl isothiocyanate, Sabinene, Perilla aldehyde, Valencene, Limonene, Farnesyl acetate, Hinesol, trans-Linalool oxide, Tetradecanoic acid, Guaiol, Eugenyl acetate, Diosphenol, Citronellol, (Z)-3-Hexenyl butyrate, Linolenic acid, Coumarins, Bupleurol, Carvone, Hexadecanoic acid, Cubenol, Citronellyl acetate, Linalool, Isodiosphenol, (E,Z)-alpha-Farnesene, 2-Phenylethanol, (+)-alpha-Terpineol, Ledol, (Z)-3-Hexenyl benzoate, beta-Bisabolene (tent.), Methyl octadecanoate, alpha-Eudesmol, Germacrene-D-4-ol, Geraniol, Geranic acid, S-(3-Methylbut-2-enyl) 2-methylpropanethioate, Ethanol, Borneol, (Z)-beta-Farnesene, (-)-Citronellal, Geranial, Linalyl acetate, Linoleic acid, Perillyl alcohol, (E,E)-Farnesol, Methyl (Z)-cinnamate, Neryl acetate, Ethyl hexadecanoate"
+C=O,314,12,"beta-Thujone, Isomenthone, Fenchone, Isodiosphenol, Menthone, Carvone, Isopinocamphone, Ligustilide, alpha-Thujone, Thymoquinone, Ambrettolide, Diosphenol"
+c=O,314,2,"Coumarin, Coumarins"
+CO,389,8,"Tetradecanoic acid, Oleic acid, Linolenic acid, Geranic acid, Linoleic acid, Hexadecanoic acid, 2-Phenylethanol, (E)-Ethyl cinnamate"
+ccccc,389,8,"Methyl (Z)-cinnamate, Ethyl cinnamate, Methyl benzoate, Coumarins, 2-Phenylethyl isothiocyanate, 2-Phenylethanol, Cinnamyl aldehyde, (Z)-3-Hexenyl benzoate"
+cC(C)c,389,1,Coumarins
+CC(C)C(C)(C)O,1388,5,"alpha-Eudesmol, Hinesol, beta-Eudesmol, (+)-alpha-Terpineol, Guaiol"

@@ -1,0 +1,24 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_794,BitInterpretations,Concentration
+Trifolium repens,0,No Reference,C.CCCC,Alkanes,1,"[(2, 'C', 1, 'CCC'), (3, 'C', 1, 'CCC')]",0.257
+Trifolium pratense,0,DOI:10.3390/molecules19010713,C.CCCC,Alkanes,1,"[(2, 'C', 1, 'CCC'), (3, 'C', 1, 'CCC')]",0.197
+Gardenia jasminoides,0,No Reference,C.CCCC,Alkanes,1,"[(2, 'C', 1, 'CCC'), (3, 'C', 1, 'CCC')]",0.1728
+Salvia officinalis,1,DOI:10.1016/j.meatsci.2011.11.026,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.2245
+Salvia lavandulaefolia,1,DOI:10.1007/s13197-017-2905-0,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.126
+Rosmarinus officinalis,1,DOI:10.1016/J.LWT.2017.05.075,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.126
+Picea engelmanni,0,No Reference,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.1272
+Achillea millefolium,0,DOI:10.3390/medicines4020030,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.1085
+Lavandula latifolia,0,No Reference,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.235
+Cinnamomum camphora,1,DOI:10.1111/lam.13610. Epub 2021 Dec 1.,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.8387
+Artemisia alba,0,No Reference,[H][C@@](COC(=O)CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCCC)(COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCC,Camphor,1,"[(24, 'C', 1, 'CCC'), (50, 'C', 1, 'CCC')]",0.211
+Spartium junceum,0,DOI:10.1186/s12941-020-00371-1,CCCCCCCCCCCCCCCC(O)=O,Hexadecanoic acid,1,"[(1, 'C', 1, 'CCC')]",0.14
+Rheum palmatum,1,10.25141/2471-7371-2015-1.0001,CCCCCCCCCCCCCCCC(O)=O,Hexadecanoic acid,1,"[(22, 'C', 1, 'CCC')]",0.225
+Psidium guajava,0,DOI:10.1155/2013/746165,CCCCCCCCCCCCCCCC(O)=O,Hexadecanoic acid,1,"[(1, 'C', 1, 'CCC')]",0.12
+Catharanthus roseus,0,No Reference,CCCCCCCCCCCCCCCC(O)=O,Hexadecanoic acid,1,"[(1, 'C', 1, 'CCC')]",0.649
+Averrhoa bilimbi,1,DOI:10.4103/0975-7406.199342,CCCCCCCCCCCCCCCC(O)=O,Hexadecanoic acid,1,"[(1, 'C', 1, 'CCC')]",0.204
+Melicocca bijuga,0,No Reference,CCCCCCCCCCCCCCCC(O)=O,Hexadecanoic acid,1,"[(1, 'C', 1, 'CCC')]",0.302
+Osmanthus fragrans,0,No Reference,CCCCC\C=C/C\C=C/C\C=C/CCCCC(O)=O,Linolenic acid,1,"[(1, 'C', 1, 'CCC')]",0.174
+Spartium junceum,0,DOI:10.1186/s12941-020-00371-1,CCCCC\C=C/C\C=C/C\C=C/CCCCC(O)=O,Linolenic acid,1,"[(1, 'C', 1, 'CCC')]",0.09
+Peucedanum petiolare,0,No Reference,[H][C@](COC(=O)CCCCCCC\C=C/CCCCCC)(COC(=O)CCCCCC\C=C/C\C=C/C\C=C/CCCCC)OC(=O)CCCCCCCCC\C=C/C\C=C/CCCCC,Sabinene,1,"[(18, 'C', 1, 'CCC'), (41, 'C', 1, 'CCC'), (63, 'C', 1, 'CCC')]",0.578
+Litsea cubeba,1,DOI:10.1080/14786419.2018.1557177,[H][C@](COC(=O)CCCCCCC\C=C/CCCCCC)(COC(=O)CCCCCC\C=C/C\C=C/C\C=C/CCCCC)OC(=O)CCCCCCCCC\C=C/C\C=C/CCCCC,Sabinene,1,"[(18, 'C', 1, 'CCC'), (41, 'C', 1, 'CCC'), (63, 'C', 1, 'CCC')]",0.6236
+Cupressocyparis leylandii,0,No Reference,[H][C@](COC(=O)CCCCCCC\C=C/CCCCCC)(COC(=O)CCCCCC\C=C/C\C=C/C\C=C/CCCCC)OC(=O)CCCCCCCCC\C=C/C\C=C/CCCCC,Sabinene,1,"[(18, 'C', 1, 'CCC'), (41, 'C', 1, 'CCC'), (63, 'C', 1, 'CCC')]",0.157
+Citrus reticulata,0,DOI:10.3390/molecules26113412,[H][C@](COC(=O)CCCCCCC\C=C/CCCCCC)(COC(=O)CCCCCC\C=C/C\C=C/C\C=C/CCCCC)OC(=O)CCCCCCCCC\C=C/C\C=C/CCCCC,Sabinene,1,"[(18, 'C', 1, 'CCC'), (41, 'C', 1, 'CCC'), (63, 'C', 1, 'CCC')]",0.3909

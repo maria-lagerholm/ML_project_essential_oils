@@ -1,0 +1,9 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_314,BitInterpretations,Concentration
+Lithraea ternifolia,0,No Reference,CC(=C)C1CC=C(C)C(=O)C1,Carvone,1,"[(9, 'O', 1, 'C=O')]",0.347
+Anethum graveolens,1,DOI:10.5281/zenodo.159101,CC(=C)C1CC=C(C)C(=O)C1,Carvone,1,"[(9, 'O', 1, 'C=O')]",0.145
+Mentha spicata,0,DOI:10.1155/2015/916305,CC(C)[C@H]1CC[C@@H](C)CC1=O,Isomenthone,1,"[(10, 'O', 1, 'C=O')]",0.165
+Agathosma betulina,0,No Reference,CC(C)[C@H]1CC[C@@H](C)CC1=O,Isomenthone,1,"[(11, 'O', 1, 'C=O')]",0.1991
+Agathosma betulina,0,No Reference,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(11, 'O', 1, 'C=O')]",0.0982
+Mentha arvensis,0,DOI:10.3390/foods12213938,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(10, 'O', 1, 'C=O')]",0.3112
+Mentha piperita,0,DOI:10.3390/molecules24050900,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(10, 'O', 1, 'C=O')]",0.145
+Mentha spicata,0,DOI:10.1155/2015/916305,CC(C)[C@H]1CC[C@H](C)CC1=O,Menthone,1,"[(10, 'O', 1, 'C=O')]",0.572
