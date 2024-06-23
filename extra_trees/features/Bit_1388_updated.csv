@@ -1,8 +1,0 @@
-Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_1388,BitInterpretations,Concentration
-Bupleurum linearifolium,0,No Reference,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.195
-Citrus medica,1,10.1016/j.lwt.2017.05.036,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.221
-Fissitigma shangtzeense,0,No Reference,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.1213
-Lithraea ternifolia,0,No Reference,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.093
-Platonia insignis,0,No Reference,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.12
-Thymus satureoides,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.1
-Viburnum orientale,0,No Reference,CC1=CCC(CC1)C(C)(C)O,(+)-alpha-Terpineol,1,"[(7, 'C', 2, 'CC(C)C(C)(C)O')]",0.168

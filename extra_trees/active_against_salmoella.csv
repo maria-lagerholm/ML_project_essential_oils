@@ -1,3 +1,4 @@
 Substructure,Morgan Fingerprint Bit Number,Number of Occurrences,Chemical
-ccc,875,8,"Allyl-2,3,4,5-tetramethoxybenzene, Thymol, Methyl thymol, Eugenol, Eugenyl acetate, Carvacrol, 2-Hydroxy-4-methoxy-acetophenone, Myristicin"
-CC(=O)O,1386,9,"Methyl linoleate, Ethyl linoleate, Sabinene, Methyl octadecanoate, (Z)-3-Hexenyl butyrate, Lavandulyl isovalerate, Diethyl malonate, Camphor, Ethyl hexadecanoate"
+C=Cc,835,2,"(E)-Anethole, Ethyl cinnamate"
+C=C(C)CCC,835,7,"alpha-Terpinyl acetate, Limonene, beta-Bisabolene, Bicyclogermacrene, Germacrene D, beta-Caryophyllene, alpha-Terpineol"
+ccc,"875, 1750",10,"Methyl benzoate, Eugenyl acetate, Thymol, 2-Phenylethanol, Ethyl cinnamate, Carvacrol, (E)-Anethole, para-Cymene, Eugenol, Furfural"

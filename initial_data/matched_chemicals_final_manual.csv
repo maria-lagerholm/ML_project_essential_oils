@@ -1,0 +1,539 @@
+Chemical Name,SMILES
+Limonene,CC1=CCC(CC1)C(=C)C
+beta-Pinene,CC1(C2CCC(=C)C1C2)C
+alpha-Pinene,CC1=CCC2CC1C2(C)C
+Bornyl acetate,CC(=O)OC1CC2CCC1(C2(C)C)C
+Camphene,CC1(C2CCC(C2)C1=C)C
+para-Cymene,CC1=CC=C(C=C1)C(C)C
+Borneol,CC1(C2CCC1(C(C2)O)C)C
+alpha-Muurolene,CC1=CC2C(CC1)C(=CCC2C(C)C)C
+beta-Caryophyllene,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+Ylangene,CC1=CCC2C3C1C2(CCC3C(C)C)C
+beta-Selinene,CC(=C)C1CCC2(CCCC(=C)C2C1)C
+delta-Cadinene,CC1=CC2C(CCC(=C2CC1)C)C(C)C
+gamma-Cadinene,CC1=CC2C(CC1)C(=C)CCC2C(C)C
+beta-Cadinene,CC1=CCC2C(C1)C(CC=C2C)C(C)C
+Tricyclene,CC1(C2CC3C1(C3C2)C)C
+Myrcene,CC(=CCCC(=C)C=C)C
+alpha-Humulene,CC1=CCC(C=CCC(=CCC1)C)(C)C
+Terpinolene,CC1=CCC(=C(C)C)CC1
+beta-Phellandrene,CC(C)C1CCC(=C)C=C1
+alpha-Terpinyl acetate,CC1=CCC(CC1)C(C)(C)OC(=O)C
+beta-Himachalene,CC1=CC2C(=C(CCCC2(C)C)C)CC1
+delta-3-Carene,CC1=CCC2C(C1)C2(C)C
+alpha-Terpinene,CC1=CC=C(CC1)C(C)C
+Sabinene,CC(C)C12CCC(=C)C1C2
+alpha-Terpineol,CC1=CCC(CC1)C(C)(C)O
+Linalool,CC(=CCCC(C)(C=C)O)C
+alpha-Phellandrene,CC1=CCC(C=C1)C(C)C
+Terpinen-4-ol,CC1=CCC(CC1)(C(C)C)O
+Piperitone,CC1=CC(=O)C(CC1)C(C)C
+gamma-Terpinene,CC1=CCC(=CC1)C(C)C
+Camphor,CC1(C2CCC1(C(=O)C2)C)C
+Fenchyl acetate,CC(=O)OC1C(C2CCC1(C2)C)(C)C
+beta-Bisabolene,CC1=CCC(CC1)C(=C)CCC=C(C)C
+alpha-Bisabolene,CC1=CCC(CC1)C(=CCC=C(C)C)C
+Geraniol,CC(=CCCC(=CCO)C)C
+Geranyl acetate,CC(=CCCC(=CCOC(=O)C)C)C
+alpha-Copaene,CC1=CCC2C3C1C2(CCC3C(C)C)C
+Citronellol,CC(CCC=C(C)C)CCO
+Benzaldehyde,C1=CC=C(C=C1)C=O
+Benzyl alcohol,C1=CC=C(C=C1)CO
+Nerol,CC(=CCCC(=CCO)C)C
+Thymol,CC1=CC(=C(C=C1)C(C)C)O
+Carvacrol,CC1=C(C=C(C=C1)C(C)C)O
+Piperitol,COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC5=C(C=C4)OCO5)O
+(-)-Isopulegol,CC1CCC(C(C1)O)C(=C)C
+Citronellal,CC(CCC=C(C)C)CC=O
+Diosphenol,CC1=C(C(=O)C(CC1)C(C)C)O
+Aromadendrene,CC1CCC2C1C3C(C3(C)C)CCC2=C
+meta-Cymene,CC1=CC(=CC=C1)C(C)C
+"1,8-Cineole",CC1(C2CCC(O1)(CC2)C)C
+beta-Thujone,CC1C2CC2(CC1=O)C(C)C
+alpha-Thujone,CC1C2CC2(CC1=O)C(C)C
+Fragranol,CC(=C)C1CCC1(C)CCO
+cis-Sabinene hydrate,CC(C)C12CCC(C1C2)(C)O
+trans-Sabinene hydrate,CC(C)C12CCC(C1C2)(C)O
+Caryophyllene oxide,CC1(CC2C1CCC3(C(O3)CCC2=C)C)C
+trans-Pinocarveol,CC1(C2CC1C(=C)C(C2)O)C
+Isoamyl isovalerate,CC(C)CCOC(=O)CC(C)C
+Spathulenol,CC1(C2C1C3C(CCC3(C)O)C(=C)CC2)C
+Myrtenal,CC1(C2CC=C(C1C2)C=O)C
+Myrtenol,CC1(C2CC=C(C1C2)CO)C
+beta-Eudesmol,CC12CCCC(=C)C1CC(CC2)C(C)(C)O
+Cumin alcohol,CC(C)C1=CC=C(C=C1)CO
+Cuminaldehyde,CC(C)C1=CC=C(C=C1)C=O
+Hexanal,CCCCCC=O
+Eugenol,COC1=C(C=CC(=C1)CC=C)O
+trans-Verbenol,CC1=CC(C2CC1C2(C)C)O
+Germacrene D,CC1=CCCC(=C)C=CC(CC1)C(C)C
+cis-Verbenol,CC1=CC(C2CC1C2(C)C)O
+beta-Farnesene,CC(=CCCC(=CCCC(=C)C=C)C)C
+o-Allyltoluene,CC1=CC=CC=C1CC=C
+Neryl acetate,CC(=CCCC(=CCOC(=O)C)C)C
+alpha-Guaiene,CC1CCC(CC2=C1CCC2C)C(=C)C
+gamma-Gurjunene,CC1CCC(C=C2C1CCC2C)C(=C)C
+Nerolidol,CC(=CCCC(=CCCC(C)(C=C)O)C)C
+Benzyl acetate,CC(=O)OCC1=CC=CC=C1
+Menthol,CC1CCC(C(C1)O)C(C)C
+Isocaryophyllene,CC1=CCCC(=C)C2CC(C2CC1)(C)C
+beta-Cubebene,CC1CCC(C2C13C2C(=C)CC3)C(C)C
+gamma-Elemene,CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C
+delta-Elemene,CC(C)C1=CC(C(CC1)(C)C=C)C(=C)C
+Copaene,CC1=CCC2C3C1C2(CCC3C(C)C)C
+alpha-Gurjunene,CC1CCC2C(C2(C)C)C3=C(CCC13)C
+gamma-Muurolene,CC1=CC2C(CC1)C(=C)CCC2C(C)C
+beta-Elemene,CC(=C)C1CCC(C(C1)C(=C)C)(C)C=C
+Methyl eugenol,COC1=C(C=C(C=C1)CC=C)OC
+(E)-Nerolidol,CC(=CCCC(=CCCC(C)(C=C)O)C)C
+Methyl chavicol,COC1=CC=C(C=C1)CC=C
+(E)-Anethole,CC=CC1=CC=C(C=C1)OC
+(E)-beta-Ocimene,CC(=CCC=C(C)C=C)C
+Anisaldehyde,COC1=CC=C(C=C1)C=O
+T-Muurolol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+alpha-Cadinol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+(Z)-beta-Ocimene,CC(=CCC=C(C)C=C)C
+Fenchone,CC1(C2CCC(C2)(C1=O)C)C
+T-Cadinol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+delta-Cadinol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+alpha-Thujene,CC1=CCC2(C1C2)C(C)C
+Verbenone,CC1=CC(=O)C2CC1C2(C)C
+Sabinol,CC(C)C12CC1C(=C)C(C2)O
+alpha-Farnesene,CC(=CCCC(=CCC=C(C)C=C)C)C
+Carvone,CC1=CCC(CC1=O)C(=C)C
+Isopinocamphone,CC1C2CC(C2(C)C)CC1=O
+Elemol,CC(=C)C1CC(CCC1(C)C=C)C(C)(C)O
+Nonanal,CCCCCCCCC=O
+Cryptone,CC(C)C1CCC(=O)C=C1
+"trans-p-Mentha-2,8-dien-1-ol",CC(=C)C1CCC(C=C1)(C)O
+Methyl anisate,COC1=CC=C(C=C1)C(=O)OC
+trans-alpha-Bergamotene,CC1=CCC2CC1C2(C)CCC=C(C)C
+p-Methoxyphenylacetone,CC(=O)CC1=CC=C(C=C1)OC
+(E)-beta-Farnesene,CC(=CCCC(=CCCC(=C)C=C)C)C
+Safrole,C=CCC1=CC2=C(C=C1)OCO2
+Linalyl acetate,CC(=CCCC(C)(C=C)OC(=O)C)C
+alpha-Cubebene,CC1CCC(C2C13C2C(=CC3)C)C(C)C
+1-Octen-3-ol,CCCCCC(C=C)O
+Ledol,CC1CCC2C1C3C(C3(C)C)CCC2(C)O
+Guaiol,CC1CCC(CC2=C1CCC2C)C(C)(C)O
+Vanillin,COC1=C(C=CC(=C1)C=O)O
+Ethanol,CCO
+Ethyl acetate,CCOC(=O)C
+alpha-Bisabolol,CC1=CCC(CC1)C(C)(CCC=C(C)C)O
+Decanal,CCCCCCCCCC=O
+delta-Guaiene,CC1CCC2=C(CCC(CC12)C(=C)C)C
+Isoborneol,CC1(C2CCC1(C(C2)O)C)C
+Perilla aldehyde,CC(=C)C1CCC(=CC1)C=O
+Geranial,CC(=CCCC(=CC=O)C)C
+allo-Aromadendrene,CC1CCC2C1C3C(C3(C)C)CCC2=C
+gamma-Himachalene,CC1=CC2C(CC1)C(=CCCC2(C)C)C
+Artemisia ketone,CC(=CC(=O)C(C)(C)C=C)C
+alpha-Himachalene,CC1=CC2C(CC1)C(=C)CCCC2(C)C
+Chrysanthenone,CC1=CCC2C(=O)C1C2(C)C
+Coumarins,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O
+ar-Curcumene,CC1=CC=C(C=C1)C(C)CCC=C(C)C
+p-Cresol,CC1=CC=C(C=C1)O
+Sesquicineole,CC(=CCCC1(C2CCC(O1)(CC2)C)C)C
+trans-Sesquisabinene hydrate,CC(CCC=C(C)C)C12CCC(C1C2)(C)O
+Cubebol,CC1CCC(C2C13C2C(CC3)(C)O)C(C)C
+cis-gamma-Bisabolene,CC1=CCC(=C(C)CCC=C(C)C)CC1
+alpha-Cedrene,CC1CCC2C13CC=C(C(C3)C2(C)C)C
+Neral,CC(=CCCC(=CC=O)C)C
+Geranic acid,CC(=CCCC(=CC(=O)O)C)C
+Anethole,CC=CC1=CC=C(C=C1)OC
+(Z)-3-Hexenol,CCC=CCCO
+"6,10,14-Trimethyl-2-pentadecanone",CC(C)CCCC(C)CCCC(C)CCCC(=O)C
+Citronellyl acetate,CC(CCC=C(C)C)CCOC(=O)C
+alpha-Fenchene,CC1(C2CCC1C(=C)C2)C
+Dodecane,CCCCCCCCCCCC
+Pentadecane,CCCCCCCCCCCCCCC
+Undecane,CCCCCCCCCCC
+trans-Linalool oxide,CC1(CCC(O1)C(C)(C)O)C=C
+10-epi-alpha-Cadinol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+1-Hexanol,CCCCCCO
+Methyl (E)-cinnamate,COC(=O)C=CC1=CC=CC=C1
+(E)-2-Hexenol,CCCC=CCO
+Bicyclogermacrene,CC1=CCCC(=CC2C(C2(C)C)CC1)C
+1-Octanol,CCCCCCCCO
+Benzyl benzoate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+Isobornyl acetate,CC(=O)OC1CC2CCC1(C2(C)C)C
+Methyl cinnamate,COC(=O)C=CC1=CC=CC=C1
+Bulnesol,CC1CCC2=C(CCC(CC12)C(C)(C)O)C
+gamma-Eudesmol,CC1=C2CC(CCC2(CCC1)C)C(C)(C)O
+1-Decanol,CCCCCCCCCCO
+cis-alpha-Bergamotene,CC1=CCC2CC1C2(C)CCC=C(C)C
+beta-Sesquiphellandrene,CC(CCC=C(C)C)C1CCC(=C)C=C1
+Farnesene,CC(=CCCC(=CCC=C(C)C=C)C)C
+"cis-p-Mentha-2,8-dien-1-ol",CC(=C)C1CCC(C=C1)(C)O
+Perillyl alcohol,CC(=C)C1CCC(=CC1)CO
+Humulene epoxide II,CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C
+alpha-Santalene,CC(=CCCC1(C2CC3C1(C3C2)C)C)C
+Pulegone,CC1CCC(=C(C)C)C(=O)C1
+Lavandulol,CC(=CCC(CO)C(=C)C)C
+Citronellyl formate,CC(CCC=C(C)C)CCOC=O
+Butyl acetate,CCCCOC(=O)C
+beta-Terpinyl acetate,CC(=C)C1CCC(CC1)(C)OC(=O)C
+2-Nonanone,CCCCCCCC(=O)C
+Menthone,CC1CCC(C(=O)C1)C(C)C
+beta-Thujene,CC1C=CC2(C1C2)C(C)C
+Hexanoic acid,CCCCCC(=O)O
+trans-Rose oxide,CC1CCOC(C1)C=C(C)C
+Isomenthone,CC1CCC(C(=O)C1)C(C)C
+2-Phenylethanol,C1=CC=C(C=C1)CCO
+2-Undecanone,CCCCCCCCCC(=O)C
+Isodiosphenol,CC1CCC(=C(C1=O)O)C(C)C
+2-Phenylethyl acetate,CC(=O)OCCC1=CC=CC=C1
+Ethyl hexadecanoate,CCCCCCCCCCCCCCCC(=O)OCC
+Octanoic acid,CCCCCCCC(=O)O
+4-Vinylphenol,C=CC1=CC=C(C=C1)O
+Ascaridole,CC(C)C12CCC(C=C1)(OO2)C
+Coumarin,C1=CC=C2C(=C1)C=CC(=O)O2
+2-Tridecanone,CCCCCCCCCCCC(=O)C
+Nootkatone,CC1CC(=O)C=C2C1(CC(CC2)C(=C)C)C
+Valencene,CC1CCC=C2C1(CC(CC2)C(=C)C)C
+Dodecanal,CCCCCCCCCCCC=O
+Octyl acetate,CCCCCCCCOC(=O)C
+Dill apiole,COC1=C(C2=C(C=C1CC=C)OCO2)OC
+Myristicin,COC1=CC(=CC2=C1OCO2)CC=C
+Piperitenone,CC1=CC(=O)C(=C(C)C)CC1
+Neomenthol,CC1CCC(C(C1)O)C(C)C
+Piperitenone oxide,CC(=C1CCC2(C(C1=O)O2)C)C
+Piperitone oxide,CC(C)C1CCC2(C(C1=O)O2)C
+Cedrol,CC1CCC2C13CCC(C(C3)C2(C)C)(C)O
+beta-Gurjunene,CC1CCC2C(C2(C)C)C3C1CCC3=C
+trans-Pinocarvyl acetate,CC(=O)OC1CC2CC(C1=C)C2(C)C
+Cinnamyl aldehyde,C1=CC=C(C=C1)C=CC=O
+Phenylacetaldehyde,C1=CC=C(C=C1)CC=O
+Furfural,C1=COC(=C1)C=O
+trans-Dihydrocarvone,CC1CCC(CC1=O)C(C)C
+cis-Dihydrocarvone,CC1CCC(CC1=O)C(=C)C
+Germacrene B,CC1=CCCC(=CCC(=C(C)C)CC1)C
+Germacrene A,CC1=CCCC(=CCC(CC1)C(=C)C)C
+3-Methylbutanal,CC(C)CC=O
+2-Methylbutanol,CCC(C)CO
+Carotol,CC1=CCC2(CCC(C2(CC1)O)C(C)C)C
+Elemicin,COC1=CC(=CC(=C1OC)OC)CC=C
+3-n-Butylphthalide,CCCCC1C2=CC=CC=C2C(=O)O1
+trans-Sabinyl acetate,CC(C)C12CC1C(=C)C(C2)OC(=O)C
+(E)-beta-Ionone,CC1=C(C(CCC1)(C)C)C=CC(=O)C
+Methyl benzoate,COC(=O)C1=CC=CC=C1
+Methyl salicylate,COC(=O)C1=CC=CC=C1O
+Nonadecane,CCCCCCCCCCCCCCCCCCC
+Heneicosane,CCCCCCCCCCCCCCCCCCCCC
+Tricosane,CCCCCCCCCCCCCCCCCCCCCCC
+Methyl carvacrol,CC1=C(C=C(C=C1)C(C)C)OC
+Ligustilide,CCCC=C1C2=C(C=CCC2)C(=O)O1
+alpha-Bisabolol oxide A,CC1=CCC(CC1)C2(CCC(C(O2)(C)C)O)C
+Chamazulene,CCC1=CC2=C(C=CC2=C(C=C1)C)C
+alpha-Bisabolol oxide B,CC1=CCC(CC1)C2(CCC(O2)C(C)(C)O)C
+"(E,E)-alpha-Farnesene",CC(=CCCC(=CCC=C(C)C=C)C)C
+Isobutyl angelate,CC=C(C)C(=O)OCC(C)C
+Isobutyl isobutyrate,CC(C)COC(=O)C(C)C
+Prenyl acetate,CC(=CCOC(=O)C)C
+3-Methylbutanol,CC(C)CCO
+Eugenyl acetate,CC(=O)OC1=C(C=C(C=C1)CC=C)OC
+Ethyl cinnamate,CCOC(=O)C=CC1=CC=CC=C1
+Acetophenone,CC(=O)C1=CC=CC=C1
+Isopulegol,CC1CCC(C(C1)O)C(=C)C
+Methyl isoeugenol,CC=CC1=CC(=C(C=C1)OC)OC
+10-epi-gamma-Eudesmol,CC1=C2CC(CCC2(CCC1)C)C(C)(C)O
+(E)-Methyl isoeugenol,CC=CC1=CC(=C(C=C1)OC)OC
+Nonane,CCCCCCCCC
+Viridiflorene,CC1CCC2=C(CCC3C(C12)C3(C)C)C
+Calarene,CC1CCC=C2C1(C3C(C3(C)C)CC2)C
+4-Carene,CC1CC2C(C2(C)C)C=C1
+"1,3,8-p-Menthatriene",CC1=CC=C(CC1)C(=C)C
+trans-Isoelemicin,CC=CC1=CC(=C(C(=C1)OC)OC)OC
+Thujopsene,CC1=CCC2(CCCC(C23C1C3)(C)C)C
+beta-Cedrene,CC1CCC2C13CCC(=C)C(C3)C2(C)C
+Dill ether,CC1COC2C1CCC(=C2)C
+Neophytadiene,CC(C)CCCC(C)CCCC(C)CCCC(=C)C=C
+"trans-p-Mentha-1(7),5-dien-2-ol",CC(C)C1CC(C(=C)C=C1)O
+Elsholtzione,CC1=C(OC=C1)C(=O)CC(C)C
+2-Methylbutyl isobutyrate,CCC(C)COC(=O)C(C)C
+Palustrol,CC1CCC2(C1C3C(C3(C)C)CCC2C)O
+Globulol,CC1CCC2C1C3C(C3(C)C)CCC2(C)O
+Viridiflorol,CC1CCC2C1C3C(C3(C)C)CCC2(C)O
+alpha-Bulnesene,CC1CCC2=C(CCC(CC12)C(=C)C)C
+Fenchol,CC1(C2CCC(C2)(C1O)C)C
+Menthofuran,CC1CCC2=C(C1)OC=C2C
+Calamenene,CC1CCC(C2=C1C=CC(=C2)C)C(C)C
+beta-Maaliene,CC1=C2C3C(C3(C)C)CCC2(CCC1)C
+Eremophilene,CC1CCC=C2C1(CC(CC2)C(=C)C)C
+(E)-2-Hexenal,CCCC=CC=O
+alpha-Curcumene,CC1=CC=C(C=C1)C(C)CCC=C(C)C
+Hexadecanoic acid,CCCCCCCCCCCCCCCC(=O)O
+Linoleic acid,CCCCCC=CCC=CCCCCCCCC(=O)O
+alpha-Eudesmol,CC1=CCCC2(C1CC(CC2)C(C)(C)O)C
+Methyl palmitate,CCCCCCCCCCCCCCCC(=O)OC
+Methyl anthranilate,COC(=O)C1=CC=CC=C1N
+Phenylacetonitrile,C1=CC=C(C=C1)CC#N
+Phytol,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C
+Ethyl hexanoate,CCCCCC(=O)OCC
+Linolenic acid,CCC=CCC=CCC=CCCCCCCCC(=O)O
+Methyl linoleate,CCCCCC=CCC=CCCCCCCCC(=O)OC
+Oleic acid,CCCCCCCCC=CCCCCCCCC(=O)O
+Decanoic acid,CCCCCCCCCC(=O)O
+Tetradecanoic acid,CCCCCCCCCCCCCC(=O)O
+Dodecanoic acid,CCCCCCCCCCCC(=O)O
+(Z)-3-Hexenyl butyrate,CCCC(=O)OCCC=CCC
+Rosefuran,CC1=C(OC=C1)CC=C(C)C
+"(E,E)-Farnesol",CC(=CCCC(=CCCC(=CCO)C)C)C
+beta-Guaiene,CC1CCC(=C(C)C)CC2=C1CCC2C
+"Selina-3,7(11)-diene",CC1=CCCC2(C1CC(=C(C)C)CC2)C
+Xanthorrhizol,CC1=C(C=C(C=C1)C(C)CCC=C(C)C)O
+Ethyl butyrate,CCCC(=O)OCC
+Carvyl acetate,CC1=CCC(CC1OC(=O)C)C(=C)C
+gamma-Curcumene,CC1=CC=C(CC1)C(C)CCC=C(C)C
+trans-alpha-Bergamotol,CC1=CCC2CC1C2(C)CCC=C(C)CO
+trans-Sabinol,CC(C)C12CC1C(=C)C(C2)O
+Evodone,CC1CC2=C(C(=CO2)C)C(=O)C1
+Pinocamphone,CC1C2CC(C2(C)C)CC1=O
+Methyl myrtenate,CC1(C2CC=C(C1C2)C(=O)OC)C
+Nonanoic acid,CCCCCCCCC(=O)O
+Decane,CCCCCCCCCC
+Myrtenyl acetate,CC(=O)OCC1=CCC2CC1C2(C)C
+Hexyl hexanoate,CCCCCCOC(=O)CCCCC
+"(E,E)-2,4-Decadienal",CCCCCC=CC=CC=O
+Safranal,CC1=C(C(CC=C1)(C)C)C=O
+2-Methylbutanoic acid,CCC(C)C(=O)O
+Geranyllinalool,CC(=CCCC(=CCCC(=CCCC(C)(C=C)O)C)C)C
+"1,4-Dimethoxybenzene",COC1=CC=C(C=C1)OC
+(Z)-3-Butylidenephthalide,CCCC=C1C2=CC=CC=C2C(=O)O1
+Guaiene,CC1CCC(=C(C)C)CC2=C1CCC2C
+4-Vinylguaiacol,COC1=C(C=CC(=C1)C=C)O
+Isoeugenol,CC=CC1=CC(=C(C=C1)O)OC
+Benzyl salicylate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O
+Menthyl acetate,CC1CCC(C(C1)OC(=O)C)C(C)C
+(-)-Menthol,CC1CCC(C(C1)O)C(C)C
+(+)-Pulegone,CC1CCC(=C(C)C)C(=O)C1
+(-)-Menthyl acetate,CC1CCC(C(C1)OC(=O)C)C(C)C
+trans-Piperitone oxide,CC(C)C1CCC2(C(C1=O)O2)C
+Thymyl acetate,CC1=CC(=C(C=C1)C(C)C)OC(=O)C
+Isobutanol,CC(C)CO
+Methyl octadecanoate,CCCCCCCCCCCCCCCCCC(=O)OC
+Methyl butyrate,CCCC(=O)OC
+1-Dodecanol,CCCCCCCCCCCCO
+Ethyl linoleate,CCCCCC=CCC=CCCCCCCCC(=O)OCC
+(Z)-3-Hexenyl benzoate,CCC=CCCOC(=O)C1=CC=CC=C1
+p-Cresyl methyl ether,CC1=CC=C(C=C1)OC
+Indole,C1=CC=C2C(=C1)C=CN2
+Thymoquinone,CC1=CC(=O)C(=CC1=O)C(C)C
+Dipropyl disulfide,CCCSSCCC
+beta-Asarone,CC=CC1=CC(=C(C=C1OC)OC)OC
+alpha-Asarone,CC=CC1=CC(=C(C=C1OC)OC)OC
+Cembrene A,CC1=CCCC(=CCC(CCC(=CCC1)C)C(=C)C)C
+Methoxytoluene,CCOC1=CC=CC(=C1)C
+"(E,Z)-Farnesol",CC(=CCCC(=CCCC(=CCO)C)C)C
+Neoisomenthol,CC1CCC(C(C1)O)C(C)C
+(+)-Isomenthone,CC1CCC(C(=O)C1)C(C)C
+alpha-Amorphene,CC1=CC2C(CC1)C(=CCC2C(C)C)C
+Patchouli alcohol,CC1CCC2(C(C3CCC2(C1C3)C)(C)C)O
+Geijerene,CC(=C)C1C=CCCC1(C)C=C
+Pregeijerene,CC1=CCCC(=CC=CCC1)C
+"(E,E)-Germacrone",CC1=CCC(=C(C)C)C(=O)CC(=CCC1)C
+Isoamyl butyrate,CCCC(=O)OCCC(C)C
+Valerianol,CC1CCC=C2C1(CC(CC2)C(C)(C)O)C
+cis-Sabinyl acetate,CC(C)C12CC1C(=C)C(C2)OC(=O)C
+Campherenone,CC(=CCCC1(C2CCC1(C(=O)C2)C)C)C
+Methyl octanoate,CCCCCCCC(=O)OC
+Seychellene,CC1CCC2(C(=C)C3CCC2(C1C3)C)C
+(E)-Tagetone,CC(C)CC(=O)C=C(C)C=C
+(Z)-Tagetenone,CC(=CC(=O)C=C(C)C=C)C
+(Z)-Tagetone,CC(C)CC(=O)C=C(C)C=C
+(E)-Tagetenone,CC(=CC(=O)C=C(C)C=C)C
+(E)-Ocimenone,CC(=CC(=O)C=C(C)C=C)C
+(Z)-Ocimenone,CC(=CC(=O)C=C(C)C=C)C
+Kessyl acetate,CC1CC(C2C1CC3CCC2(OC3(C)C)C)OC(=O)C
+beta-Terpinene,CC(C)C1=CCC(=C)CC1
+trans-Chrysanthenyl acetate,CC1=CCC2C(C1C2(C)C)OC(=O)C
+2-Tetradecanone,CCCCCCCCCCCCC(=O)C
+beta-Ocimene,CC(=CCC=C(C)C=C)C
+Nonacosane,CCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+2-Methylbutanal oxime,CCC(C)C=NO
+2-Nonyl acetate,CCCCCCCC(C)OC(=O)C
+4-Methylhexanol,CCC(C)CCCO
+Manool,CC1(CCCC2(C1CCC(=C)C2CCC(C)(C=C)O)C)C
+2-Carene,CC1=CC2C(C2(C)C)CC1
+Cyperene,CC1CCC2CC3=C(CCC13C2(C)C)C
+S-(3-Methylbut-2-enyl) 2-methylpropanethioate,CC(C)C(=O)SCC=C(C)C
+S-(3-Methylbut-2-enyl) ethanethioate,CC(=CCSC(=O)C)C
+alpha-Ocimene,CC(=C)CCC=C(C)C=C
+Methyl phenylacetate,COC(=O)CC1=CC=CC=C1
+(Z)-Methyl jasmonate,CCC=CCC1C(CCC1=O)C(=O)OC
+(E)-Isoeugenol,CC=CC1=CC(=C(C=C1)O)OC
+Ipsenone,CC(C)CC(=O)CC(=C)C=C
+Dihydrotagetone,CC(C)CC(=O)CC(C)C=C
+cis-alpha-Santalol,CC(=CCCC1(C2CC3C1(C3C2)C)C)CO
+Davanone,CC(C1CCC(O1)(C)C=C)C(=O)CC=C(C)C
+(E)-Ethyl cinnamate,CCOC(=O)C=CC1=CC=CC=C1
+"2,6-di-tert-Butyl-p-cresol",CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C
+(-)-alpha-Bisabolol,CC1=CCC(CC1)C(C)(CCC=C(C)C)O
+Benzyl cinnamate,C1=CC=C(C=C1)COC(=O)C=CC2=CC=CC=C2
+Curcumenol,CC1CCC2C13CC(=C(C)C)C(O3)(C=C2C)O
+Citral,CC(=CCCC(=CC=O)C)C
+"(E,E)-Farnesyl acetate",CC(=CCCC(=CCCC(=CCOC(=O)C)C)C)C
+Abietadiene,CC(C)C1=CC2=CCC3C(CCCC3(C2CC1)C)(C)C
+Germacrene-D-4-ol,CC1=CCCC(C=CC(CC1)C(C)C)(C)O
+Myrcenone,CC(=CC(=O)CC(=C)C=C)C
+Hinesol,CC1CCC=C(C12CCC(C2)C(C)(C)O)C
+Isopulegyl acetate,CC1CCC(C(C1)OC(=O)C)C(=C)C
+Zerumbone,CC1=CCC(C=CC(=O)C(=CCC1)C)(C)C
+Precocene II,CC1(C=CC2=CC(=C(C=C2O1)OC)OC)C
+Precocene I,CC1(C=CC2=C(O1)C=C(C=C2)OC)C
+Rosefuran epoxide,CC1=C(OC=C1)CC2C(O2)(C)C
+Isopulegone,CC1CCC(C(=O)C1)C(=C)C
+"1-Phenylhepta-1,3,5-triyne",CC#CC#CC#CC1=CC=CC=C1
+trans-alpha-Bisabolene,CC1=CCC(CC1)C(=CCC=C(C)C)C
+"3,4,5-Trimethoxytoluene",CC1=CC(=C(C(=C1)OC)OC)OC
+Nepetalactone,CC1CCC2C1C(=O)OC=C2C
+Tetradecyl acetate,CCCCCCCCCCCCCCOC(=O)C
+(Z)-Heptadec-8-ene,CCCCCCCCC=CCCCCCCC
+2-Phenylethyl methyl ether,COCCC1=CC=CC=C1
+Ishwarane,CC1CCCC23C1(CC4C(C2)C4(C3)C)C
+(E)-2-Dodecenal,CCCCCCCCCC=CC=O
+(E)-2-Tetradecenal,CCCCCCCCCCCC=CC=O
+(E)-2-Tridecenal,CCCCCCCCCCC=CC=O
+"2,5-Dimethoxy-p-cymene",CC1=CC(=C(C=C1OC)C(C)C)OC
+Heptadecene,CCCCCCCCCCCCCCCC=C
+2-Aminobenzaldehyde,C1=CC=C(C(=C1)C=O)N
+1-Nitro-2-phenylethane,C1=CC=C(C=C1)CC[N+](=O)[O-]
+alpha-Muurolol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+"2,3,6-Trimethylbenzaldehyde",CC1=C(C(=C(C=C1)C)C=O)C
+"2,3,4-Trimethylbenzaldehyde",CC1=C(C(=C(C=C1)C=O)C)C
+cis-Lanceol,CC1=CCC(CC1)C(=C)CCC=C(C)CO
+(Z)-Nuciferol,CC1=CC=C(C=C1)CCCCC=C(C)CO
+ar-Turmerone,CC1=CC=C(C=C1)C(C)CC(=O)C=C(C)C
+7-Octen-4-ol,CCCC(CCC=C)O
+Diethyl malonate,CCOC(=O)CC(=O)OCC
+1-epi-Bicyclosesquiphellandrene,CC1CCC(C2=CC(=C)CCC12)C(C)C
+cis-beta-Santalol,CC(=CCCC1(C2CCC(C2)C1=C)C)CO
+cis-alpha-Irone,CC1CC=C(C(C1(C)C)C=CC(=O)C)C
+2-Hydroxyacetophenone,C1=CC=C(C=C1)C(=O)CO
+7-Dodecenal,CCCCC=CCCCCCC=O
+Isoprenol,CC(=C)CCO
+"Heptane",CCCCCCC
+"Ambrettolide",C1CCCCOC(=O)CCCCCC=CCCC1
+"Isopiperitenol",CC1=CC(C(CC1)C(=C)C)O
+"Ethyl (E)-4-methoxycinnamate",CCOC(=O)C=CC1=CC=C(C=C1)OC
+"Dehydrocurdione",CC1CCC=C(CC(=O)C(=C(C)C)CC1=O)C
+"Dimethyl trisulfide",CS(=S)SC
+"Allyl isothiocyanate",C=CCN=C=S
+"2-Phenylethyl isothiocyanate",C1=CC=C(C=C1)CCN=C=S
+"(E,E)-2,4-Dodecadienal",CCCCCCCC=CC=CC=O
+"2,6-Dimethyl-1,3(E),5(E),7-octatetraene",CC(=C)C=CC=C(C)C=C
+"Lavandulyl isovalerate",CC(C)CC(=O)OCC(CC=C(C)C)C(=C)C
+"Ethoxyethyl acetate",CCOCCOC(=O)C
+"2,4-Dimethyl-3-pentanone",CC(C)C(=O)C(C)C
+"1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octane",CC1(C2CCC(O1)(CC2)C)C
+"Costus lactone, dehydro-",C=C1CCC2C(C3C1CCC3=C)OC(=O)C2=C
+"(E)-Nuciferol",CC1=CC=C(C=C1)CCCCC=C(C)CO
+"Capillene",CC#CC#CCC1=CC=CC=C1
+"alpha-Turmerone",CC1=CCC(C=C1)C(C)CC(=O)C=C(C)C
+"beta-Turmerone",CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1
+"trans-beta-Guaiene",CC1CCC(=C(C)C)CC2=C1CCC2C
+"Zingiberol",CC12CCCC(=C)C1CC(CC2)C(C)(C)O
+"Cinnamyl cinnamate",C1=CC=C(C=C1)C=CCOC(=O)C=CC2=CC=CC=C2
+"Khusimol",CC1(C2CCC3(C2)C(CCC3C1=C)CO)C
+"3-Butenyl isothiocyanate",C=CCCN=C=S
+"4-(Methylthio)butyl isothiocyanate",CSCCCCN=C=S
+"5-(Methylthio)pentanenitrile",CSCCCCC#N
+"Benzyl isothiocyanate",C1=CC=C(C=C1)CN=C=S
+"Furanodiene",CC1=CCC2=C(CC(=CCC1)C)OC=C2C
+"Aristolene",CC1CCCC2=CCC3C(C12C)C3(C)C
+"Octyl butyrate",CCCCCCCCOC(=O)CCC
+"Cyclocolorenone",CC1CCC2C(C2(C)C)C3=C(C(=O)CC13)C
+"Sarisan",COC1=CC2=C(C=C1CC=C)OCO2
+"Solanone",CC(C)C(CCC(=O)C)C=CC(=C)C
+"alpha-Chenopodiol",CC1=CCCC2(C1C(C(CC2)C(C)(C)O)O)C
+"Octyl hexanoate",CCCCCCCCOC(=O)CCCCC
+"Octyl octanoate",CCCCCCCCOC(=O)CCCCCCC
+"Furanogermenone",CC1CCC=C(CC2=C(CC1=O)C(=CO2)C)C
+"Methyl propyl trisulfide",CCCSSC
+"(E)-1-Propenyl sec-butyl disulfide",CCC(C)SSC=CC
+"(Z)-1-Propenyl sec-butyl disulfide",CCC(C)SSC=CC
+"3-Methylpentyl angelate",CCC(C)CCOC(=O)C(=CC)C
+"3-Phenylpropyl cinnamate",C1=CC=C(C=C1)CCCOC(=O)C=CC2=CC=CC=C2
+"Geranylgeraniol",CC(=CCCC(=CCCC(=CCCC(=CCO)C)C)C)C
+"Mustakone",CC1=CC(=O)C2C3C1C2(CCC3C(C)C)C
+"Cinnamyl isovalerate",CC(C)CC(=O)OCC=CC1=CC=CC=C1
+"(-)-Camphene",CC1(C2CCC(C2)C1=C)C
+"2-Hydroxy-4-methoxybenzaldehyde",COC1=CC(=C(C=C1)C=O)O
+"Isobornyl isobutyrate",CC(C)C(=O)OC1CC2CCC1(C2(C)C)C
+"8-Isobutyryloxy-isobornyl isobutyrate",CC(C)C(=O)OCC1(C2CCC1(C(C2)OC(=O)C(C)C)C)C
+"2-Methyl-6-methylene-2,7-octadien-4-ol",CC(=CC(CC(=C)C=C)O)C
+"Methyl beta-orcinolcarboxylate",CC1=CC(=C(C(=C1C(=O)OC)O)C)O
+"Dibenzyl disulfide",C1=CC=C(C=C1)CSSCC2=CC=CC=C2
+"Dibenzyl trisulfide",C1=CC=C(C=C1)CSSSCC2=CC=CC=C2
+"Nicotine",CN1CCCC1C2=CN=CC=C2
+"Fokienol",CC(=C)C=CCCCC(=CCCC(C)(C=C)O)C
+"Selina-1,3,5(11)-trien-8-one",CC1=CC=CC2(C1=CC(C(=O)C2)C(C)C)C
+"Oxidoselina-1,3,7(11)-trien-8-one",CC1=CC=CC2(C1CC3(C(=O)C2)C(O3)(C)C)C
+"Guai-6-en-10beta-ol",CC1CCC2C1C=C(CCC2(C)O)C(C)C
+"Cinnamyl benzoate",C1=CC=C(C=C1)C=CCOC(=O)C2=CC=CC=C2
+"1,4-Hexadiene, 2,3,4,5-tetramethyl-",CC(C(=C)C)C(=C(C)C)C
+"3-Thujopsanone",CC1C2CC23C(CCCC3(CC1=O)C)(C)C
+"Dibenzofuran",C1=CC=C2C(=C1)C3=CC=CC=C3O2
+"Phenanthrene, octahydro-",C1CCC2C(C1)CCC3C2CCCC3
+"3-Tetradecanone",CCCCCCCCCCCC(=O)CC
+"Benzyl 2-furylacetylene",C1=CC=C(C=C1)CC#CC2=CC=CO2
+"2-Butyl-2-octenal",CCCCCC=C(CCCC)C=O
+"Latifolone",CCC(=O)C1=CC2=C(C(=C1)OC)OCO2
+"Diallyl disulfide",C=CCSSCC=C
+"Diallyl trisulfide",C=CCSSSCC=C
+"Allyl methyl trisulfide",CSSSCC=C
+"Allyl methyl disulfide",CSSCC=C
+"2,4-Dithiapentane",CSCSC
+"9-Tetradecenal",CCCCC=CCCCCCCCC=O
+"3-Vinyl-1,2-dithia-4-cyclohexene",C=CC1C=CCSS1
+"Cycloheptadecanone",C1CCCCCCCCC(=O)CCCCCCC1
+"Civetone",C1CCCC=CCCCCCCCC(=O)CCC1
+"trans-Fragranyl acetate",CC(=O)OCCC1(C)CCC1C(C)C
+"Fragranyl isovalerate",C=C(C)C1CCC1(C)CCOC(=O)CC(C)C
+"alpha-Phelland
+
+ren-8-ol",CC(C)(C1=CCC(=CC1)OC)O
+"(Z)-beta-Farnesene",CC(=CCCC(=CCCC(=C)C=C)C)C
+"cis-Linalool oxide",CC1(CCC(O1)C(C)(C)O)C=C
+"trans-Linalool oxide",CC1(CCC(O1)C(C)(C)O)C=C
+"Linalool oxides (cis/trans)",CC1(CCC(O1)C(C)(C)O)C=C
+"trans-Linalool oxide (6)",CC1(CCC(O1)C(C)(C)O)C=C
+"Allyl-2,3,4,5-tetramethoxybenzene",COC1=C(C(=C(C(=C1)CC=C)OC)OC)OC
+"cis-3-Butylidene-4,5-dihydrophthalide",O=C(O/C1=C\CCC)C2=C1CCC=C2
+"alpha-oxo-Bisabolene",CC(C)=CCCC(C)C1CCC(C)=CC1=O
+"Nepetalactone 1",CC1CCC2C1C(=O)OC=C2C
+"Nepetalactone 2",CC1CCC2C1C(=O)OC=C2C
+"Nepetalactone 4",CC1CCC2C1C(=O)OC=C2C
+"4-Methoxy-2-(E-3-methyloxiranyl)phenyl angelate",C/C=C(/C)C(=O)Oc1ccc(OC)cc1C1OC1C
+"4-Methoxy-2-(E-3-methyloxiranyl)phenyl isobutyrate",COc1ccc(OC(=O)C(C)C)c(C2OC2C)c1
+"Allyl-2,4-dimethoxybenzene",COC1=CC(=C(C=C1)CC=C)OC
+"Carquejyl acetate",C=C(C)C1C(=C)CC=CC1OC(C)=O
+"S-(3-Methylbut-2-enyl) 3-methylbutanethioate",CC(C)CC(=O)SCC=C(C)C
+"(E)-Cinnamyl aldehyde",O=C\C=C\c1ccccc1
+"2-Hydroxy-4-methoxy-acetophenone",O=C(C)C1=CC=C(OC)C=C1O
+"Lachnophyllum methyl ester",CCCC#CC#C/C=C\C(=O)OC
+"6-epi-alpha-Bisabolol",CC(C)=CCC[C@](C)(O)[C@H]1CC=C(C)CC1
+"3-alpha-Muurolol",CC1=CC2C(CCC(C2CC1)(C)O)C(C)C
+"Bisabolol oxide",CC1=CCC(CC1)C2(CCC(C(O2)(C)C)O)C
+"2,6-Dimethyl-3(E),5(E),7-octatrien-2-ol",C=CC(C)=CC=CC(C)(C)O
+"epi-alpha-Selinene",CC1=CCCC2(C1CC(CC2)C(=C)C)C
+"(E)-4-(1-Butenyl)anisole",CCC=CC1=CC=C(C=C1)OC
+"cis-gamma-Irone",CC1CCC(=C)C(C1(C)C)C=CC(=O)C
+"Costus lactone, dihydrodehydro-",C=C1CCC2C(C3C1CCC3=C)OC(=O)C2=C
+"(Z,Z)-Germacrone",C/C/1=C\CC(=C(C)C)C(=O)C/C(=C/CC1)/C
+"gamma-Hexadecalactone",CCCCCCCCCCCC1CCC(=O)O1
+"Germacra-1(10),5-dien-11-ol",CC1CCC=C(CCC(C=C1)C(C)(C)O)C
+"iso-alpha-Cedrene",CC1=CC[C@@]23C[C@@H]1C(C)(C)[C@@H]2CC[C@H]3C
+"cis-4-Caranone",O=C1CC2C(CC1C)C2(C)C
+"beta-Chenopodiol",OC1C2C(=C)CCCC2(C)CCC1C(O)(C)C
+"Eudesma-3,11-dien-6alpha-ol",CC1=CC[C@@H](O)[C@]2(C)CCC(C(C)C)C=C12
+"1,2-Dihydro-acenaphthylene",C1CC2=CC=CC3=C2C1=CC=C3
+"(E)-6,7-Ocimene oxide",CC(=CCC1C(O1)(C)C=C)C
+"Chamazulenes",CCC1=CC2=C(C=CC2=C(C=C1)C)C
+"2-Methylene-3-buten-1-yl benzoate",CC(=CCOC(=O)c1ccccc1)C
+"Nepetalactone 3a",CC1CCC2C1C(=O)OC=C2C
+"7-epi-gamma Eudesmol",CC1=C2CC(CCC2(CCC1)C)C(C)(C)O
+"trans-Dihydrofarnesol",CC(CCC=C(C)CCC=C(C)C)CCO
+"Pentyl 4-isopropylbenzoate",CCCCCOC(=O)C1=CC=C(C=C1)O
+"4-Hydroxy-2,6,6-trimethyl-1-cyclohexenecarbaldehyde",CC1=C(C=O)C(C)(C)CC(O)C1
+"3-Vinyl-1,2-dithia-5-cyclohexene",C=CC1CC=CC(C1S)S
