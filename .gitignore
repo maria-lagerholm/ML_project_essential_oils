@@ -8,3 +8,16 @@
 
 
 .ipynb_checkpoints/
+
+# Exclude virtual environment directory
+python3.9_env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other files to ignore
+.env
+.DS_Store
