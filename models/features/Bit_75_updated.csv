@@ -1,0 +1,13 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_75,BitInterpretations,Concentration
+Aeollanthus suaveolens,0,No Reference,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.1583
+Bursera delpechiana,1,DOI:10.21010/ajtcam.v14i3.8,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.47
+Citrus aurantium,0,No Reference,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.168
+Citrus bergamia,1,DOI:10.3390/foods12010203,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.281
+Lavandula angustifolia,1,DOI:10.3390/coatings12101492,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.3599
+Lavandula x hybrida,0,No Reference,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.223
+Mentha citrata,1,DOI:10.1016/j.indcrop.2016.07.005,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.662
+Mentha viridis,1,DOI:10.1155/2022/7990508,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.2377
+Salvia sclarea,0,DOI:10.1002/fsn3.116,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.6993
+Zataria multiflora,1,DOI:10.1016/j.foodres.2008.07.018,CC(=CCCC(C)(C=C)OC(=O)C)C,Linalyl acetate,1,"[(10, 'C', 2, 'COC(C)=O')]",0.1152
+Elletaria cardamomum,1,DOI:10.3389/fmicb.2021.620227,CC1=CCC(CC1)C(C)(C)OC(=O)C,alpha-Terpinyl acetate,1,"[(11, 'C', 2, 'COC(C)=O')]",0.3931
+Thymus serpyllum,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(CC1)C(C)(C)OC(=O)C,alpha-Terpinyl acetate,1,"[(11, 'C', 2, 'COC(C)=O')]",0.096

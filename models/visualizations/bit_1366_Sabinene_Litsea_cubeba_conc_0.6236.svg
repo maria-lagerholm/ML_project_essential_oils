@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdkit="http://www.rdkit.org/xml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" xml:space="preserve" width="150px" height="150px" viewBox="0 0 150 150">
+<!-- END OF HEADER -->
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="150.0" height="150.0" x="0.0" y="0.0"> </rect>
+<ellipse cx="120.3" cy="85.2" rx="21.9" ry="21.9" class="atom-1" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:1.0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0 atom-0 atom-1" d="M 24.9,51.6 L 122.4,77.2" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:5.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0 atom-0 atom-1" d="M 20.7,67.5 L 118.2,93.1" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:5.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="atom-0" d="M 9.2 54.2 L 13.3 50.0 L 7.8 48.8 L 8.7 46.0 L 13.7 48.6 L 13.0 43.0 L 16.0 43.0 L 15.2 48.5 L 20.3 46.1 L 21.2 48.8 L 15.6 49.9 L 19.6 54.2 L 17.2 55.9 L 14.4 50.6 L 11.6 55.9 L 9.2 54.2 " fill="#191919"/>
+</svg>
