@@ -8,4 +8,4 @@ The notebooks are in the following order:
 4. /models/data_aggregation.ipynb
 5. /models/model_testing.ipynb
 6. /modes/logistic_regression.ipynb
-7. /extra_trees/Visualizations.ipynb
+7. /models/Visualizations.ipynb
