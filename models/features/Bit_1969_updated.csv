@@ -1,0 +1,26 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_1969,BitInterpretations,Concentration
+Abies balsamea,0,DOI:10.3390/f10111042,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.1027
+Pinus nigra,0,DOI:10.1504/ijewm.2013.055590,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.4849
+Pinus mugo,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.275
+Pinus halepensis,0,DOI:10.1016/s2222-1808(14)60323-6,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.158
+Picea engelmanni,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.0958
+Pinus sylvestris,0,DOI:10.1504/ijewm.2013.055590,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.281
+Nigella sativa,0,DOI:10.1016/0378-8741(91)90047-h,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.093
+Pinus pinaster,0,DOI:10.1504/ijewm.2013.055590,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.71
+Pinus sibirica,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.572
+Ferula galbaniflua,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.138
+Cupressocyparis leylandii,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.1
+Chaerophyllum macrospermum,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.194
+Calyptranthes sintenisii,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.1248
+Angelica archangelica,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.1814
+Abies nordmannia,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.3409
+Larix decidua,0,No Reference,CC1=CCC2CC1C2(C)C,alpha-Pinene,1,"[(4, 'C', 2, 'CCC1CCC1(C)C')]",0.3834
+Satureja thymbra,1,DOI:10.1080/14786410310001608145,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.148
+Satureja hortensis,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.3115
+Saturiea hortensis,1,DOI:10.22037/afb.v1i1.7134,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.3115
+Origanum glandulosum,1,DOI:10.1016/j.foodchem.2007.05.050,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.09
+Thymus riatarum,1,DOI:10.3390/medicines3030019,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.103
+Oliveria decumbens,1,DOI:10.21203/rs.3.rs-3164788/v1,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.128
+Melaleuca alternifolia,0,DOI:10.1177/1934578X19878904,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.1154
+Origanum vulgare,1,DOI:10.1111/j.1600-0463.2005.apm1130101.x,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.1138
+Thymus vulgaris,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(=CC1)C(C)C,gamma-Terpinene,1,"[(4, 'C', 1, 'C=C(C)C')]",0.227

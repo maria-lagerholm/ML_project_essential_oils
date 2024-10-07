@@ -1,0 +1,4 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_787,BitInterpretations,Concentration
+Averrhoa bilimbi,1,DOI:10.4103/0975-7406.199342,C1=COC(=C1)C=O,Furfural,1,"[(1, 'C', 1, 'cco')]",0.191
+Cichorium intybus,1,DOI:10.1186/s12941-020-00371-1,C1=COC(=C1)C=O,Furfural,1,"[(1, 'C', 1, 'cco')]",0.0948
+Tamarindus indica,1,DOI:10.4103/0973-1296.66944,C1=COC(=C1)C=O,Furfural,1,"[(1, 'C', 1, 'cco')]",0.7239

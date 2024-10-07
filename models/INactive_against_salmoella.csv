@@ -1,4 +1,8 @@
 Substructure,Morgan Fingerprint Bit Number,Number of Occurrences,Chemical
-CC(C)(C)C,549,4,"delta-3-Carene, alpha-Pinene, beta-Pinene, Bicyclogermacrene"
-CCCCC,1143,2,"Hexadecanoic acid, Linolenic acid"
-C=CC(C)(O)CC,1999,1,Linalool
+CC(C)(C)C,549,4,"beta-Pinene, Bicyclogermacrene, alpha-Pinene, delta-3-Carene"
+coc,1604,1,alpha-Terpineol
+CC(C)(C)O,1604,1,alpha-Terpineol
+CCCCC,1143,2,"Linolenic acid, Hexadecanoic acid"
+CC,1017,16,"Limonene, Geranyl acetate, Myrcene, alpha-Farnesene, Citronellol, Geranial, (E)-beta-Ocimene, Citronellal, Geraniol, beta-Elemene, Eugenyl acetate, alpha-Terpinyl acetate, Linalool, Carvone, beta-Bisabolene, Linalyl acetate"
+CCC1CCC1(C)C,1969,1,alpha-Pinene
+C=C(C)C,1969,1,gamma-Terpinene

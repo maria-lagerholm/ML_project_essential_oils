@@ -1,0 +1,56 @@
+Plant_Species,Salmonella Typhimurium,Reference,SMILES,Chemical_name,Bit_835,BitInterpretations,Concentration
+Foeniculum vulgare,1,DOI:10.1186/s12941-020-00371-1,CC=CC1=CC=C(C=C1)OC,(E)-Anethole,1,"[(2, 'C', 1, 'C=Cc')]",0.7604
+Illicium verum,0,DOI:10.2174/1874944501508010030,CC=CC1=CC=C(C=C1)OC,(E)-Anethole,1,"[(2, 'C', 1, 'C=Cc')]",0.827
+Neolitsea brassii,0,No Reference,CC1=CCCC(=CC2C(C2(C)C)CC1)C,Bicyclogermacrene,1,"[(13, 'C', 2, 'C=C(C)CCC')]",0.126
+Neolitsea australiensis,0,No Reference,CC1=CCCC(=CC2C(C2(C)C)CC1)C,Bicyclogermacrene,1,"[(13, 'C', 2, 'C=C(C)CCC')]",0.12
+Elaeagnus angustifolia,1,DOI:10.3390/molecules25092021,CCOC(=O)C=CC1=CC=CC=C1,Ethyl cinnamate,1,"[(6, 'C', 1, 'C=Cc')]",0.3279
+Kaempferia galanga,0,10.1002/fsn3.116,CCOC(=O)C=CC1=CC=CC=C1,Ethyl cinnamate,1,"[(6, 'C', 1, 'C=Cc')]",0.1324
+Lonicera japonica,1,DOI:10.1155/2015/905063,CC1=CCCC(=C)C=CC(CC1)C(C)C,Germacrene D,1,"[(11, 'C', 2, 'C=C(C)CCC')]",0.28
+Carum carvi,1,DOI:10.1080/13880200802055917,CC1=CCCC(=C)C=CC(CC1)C(C)C,Germacrene D,1,"[(11, 'C', 2, 'C=C(C)CCC')]",0.159
+Pinus nigra,0,DOI:10.1504/ijewm.2013.055590,CC1=CCCC(=C)C=CC(CC1)C(C)C,Germacrene D,1,"[(11, 'C', 2, 'C=C(C)CCC')]",0.186
+Levisticum officinale,1,DOI:10.3389/fvets.2023.1188752,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.0906
+Lippia alba,1,DOI:10.3390/antibiotics10101191,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.115
+Perilla acuta,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.204
+Peucedanum zenkeri,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.232
+Lithraea ternifolia,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.216
+Cymbopogon martini,1,DOI:10.3390/antibiotics10101191,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.136
+Abies borisii-regis,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.226
+Mentha arvensis,0,DOI:10.3390/foods12213938,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.0958
+Tagetes lucida,1,DOI:10.3390/antibiotics10101191,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.165
+Satureja montana,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.157
+Agathosma betulina,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.1164
+Anethum graveolens,1,DOI:10.5281/zenodo.159101,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(7, 'C', 2, 'C=C(C)CCC')]",0.1192
+Psidium guajava,0,DOI:10.1155/2013/746165,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.15
+Piper nigrum,1,DOI:10.3389/fvets.2023.1188752,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.1744
+Cupressocyparis leylandii,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.151
+Citrus aurantifolia,1,DOI:10.3390/ijms19071966,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.247
+Citrus japonica,1,DOI:10.3390/molecules26113412,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.884
+Citrus maxima,1,DOI:10.3390/coatings12101492,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.932
+Pinus halepensis,0,DOI:10.1016/s2222-1808(14)60323-6,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.102
+Citrus paradisi,1,DOi:10.1111/j.1365-2621.2011.02640.x,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.9253
+Citrus sinensis,0,DOI:10.3390/molecules26113412,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.242
+Croton zambesicus,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.192
+Citrus bergamia,1,DOI:10.3390/foods12010203,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.402
+Picea engelmanni,0,No Reference,CC1=CCC(CC1)C(=C)C,Limonene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.1429
+Lithraea ternifolia,0,No Reference,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.093
+Viburnum orientale,0,No Reference,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.168
+Fissitigma shangtzeense,0,No Reference,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.1213
+Thymus satureoides,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.1
+Citrus medica,1,10.1016/j.lwt.2017.05.036,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.221
+Platonia insignis,0,No Reference,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.12
+Bupleurum linearifolium,0,No Reference,CC1=CCC(CC1)C(C)(C)O,alpha-Terpineol,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.195
+Thymus serpyllum,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCC(CC1)C(C)(C)OC(=O)C,alpha-Terpinyl acetate,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.096
+Elletaria cardamomum,1,DOI:10.3389/fmicb.2021.620227,CC1=CCC(CC1)C(C)(C)OC(=O)C,alpha-Terpinyl acetate,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.3931
+Thymus richardii,1,DOI:10.3390/molecules28124803,CC1=CCC(CC1)C(=C)CCC=C(C)C,beta-Bisabolene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.323
+Abies semenovii,0,No Reference,CC1=CCC(CC1)C(=C)CCC=C(C)C,beta-Bisabolene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.09
+Tagetes lucida,1,DOI:10.3390/antibiotics10101191,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.28
+Aegle marmelos,1,DOI:10.3389/fvets.2023.1188752,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.1754
+Psidium guajava,0,DOI:10.1155/2013/746165,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.2
+Piper nigrum,1,DOI:10.3389/fvets.2023.1188752,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.2836
+Cananga odorata,1,DOI:10.3390/antibiotics10101191,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(6, 'C', 2, 'C=C(C)CCC')]",0.33
+Pinus halepensis,0,DOI:10.1016/s2222-1808(14)60323-6,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.181
+Croton zambesicus,0,No Reference,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.158
+Eugenia caryophyllus,1,DOI:10.1016/j.foodcont.2005.11.009,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.106
+Ocimum gratissimum,1,DOI:10.1016/j.micpath.2018.03.041,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.398
+Litsea zeylanica,0,No Reference,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.1742
+Laurus nobilis,1,DOI:10.3390/foods5020028,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-Caryophyllene,1,"[(12, 'C', 2, 'C=C(C)CCC')]",0.1

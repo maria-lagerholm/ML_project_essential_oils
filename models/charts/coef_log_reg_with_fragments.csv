@@ -1,0 +1,11 @@
+Feature,Coefficient Mean,Lower CI,Upper CI
+hydroxyl group attached to a benzene ring,3.85,2.93,4.76
+branched alkyl side chain attached to a bicyclic structure,-3.08,-4.84,-1.32
+part of a furan ring,2.48,-0.09,5.05
+hydroxyl group bonded to a tertiary carbon,-2.14,-3.74,-0.54
+portion of a hydrocarbon chain,-1.69,-3.28,-0.1
+propenyl group attached to a benzene ring,1.64,0.08,3.2
+an ethyl group attached to a cyclic structure,-1.57,-2.53,-0.61
+alken group attached to a benzene or cyclohexene ring,1.42,0.44,2.39
+part of a bicyclic structure,-1.19,-2.57,0.2
+acetate group,1.06,-0.28,2.39

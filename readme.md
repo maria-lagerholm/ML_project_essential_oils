@@ -7,5 +7,5 @@ The notebooks are in the following order:
 3. /chemical_composition/chemical_composition.ipynb
 4. /models/data_aggregation.ipynb
 5. /models/model_testing.ipynb
-6. /modes/logistic_regression.ipynb
+6. /modes/logistic_regression-internal.ipynb
 7. /models/Visualizations.ipynb
